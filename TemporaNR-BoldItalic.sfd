@@ -3,7 +3,7 @@ FontName: TemporaNR-BoldItalic
 FullName: Tempora NR Bold Italic
 FamilyName: Tempora NR
 Weight: Bold
-Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc. Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.  Portions copyright (c) 2009-2019 by Khaled Hosny. Portions copyright (c) by Daniel Benjamin Miller. All rights reserved.
+Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc. Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.  Portions copyright (c) 2009-2019 by Khaled Hosny. Portions copyright (c) by Daniel Benjamin Miller. All rights reserved.\n-------------------------------------------------------------------------------------------\nThe designers of IFAO-Grec Unicode are Jean-Luc Fournet and Ralph Hancock, with help of Adam Bulow-Jacobsen in various ways.
 Version: 1.302
 ItalicAngle: -16.33
 UnderlinePosition: -50
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710455
-ModificationTime: 1759204938
+ModificationTime: 1759212255
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -57,6 +57,7 @@ OS2XHeight: 449
 OS2Vendor: 'ALIF'
 OS2CodePages: 0000009f.cf430000
 OS2UnicodeRanges: a00002bf.40000d4e.00000000.00000000
+Lookup: 1 0 0 "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" { "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ("sc") } ['smcp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CRT ' 'NLD ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 0" { "'locl' Localized Forms in Latin lookup 0 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 1" { "'locl' Localized Forms in Latin lookup 1 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
 Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 2" { "'locl' Localized Forms in Latin lookup 2 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
@@ -75,7 +76,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 58 29 11
+WinInfo: 65337 29 11
 BeginPrivate: 7
 BlueValues 15 [-18 0 669 685]
 BlueShift 1 6
@@ -85,7 +86,7 @@ StemSnapH 31 [22 29 33 37 42 47 52 56 63 69]
 StemSnapV 31 [25 43 48 53 56 63 71 74 78 83]
 ForceBold 4 true
 EndPrivate
-BeginChars: 65580 885
+BeginChars: 65632 937
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -2178,6 +2179,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 681 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" a.sc
 EndChar
 
 StartChar: b
@@ -2212,6 +2214,7 @@ SplineSet
  163 679 214 686 284 699 c 1
 EndSplineSet
 Kerns2: 90 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" b.sc
 EndChar
 
 StartChar: c
@@ -2241,6 +2244,7 @@ SplineSet
  239 51 270 75 318 142 c 1
 EndSplineSet
 Kerns2: 76 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" c.sc
 EndChar
 
 StartChar: d
@@ -2280,6 +2284,7 @@ SplineSet
  308 670 l 1
  408 678 457 685 517 699 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" d.sc
 EndChar
 
 StartChar: e
@@ -2309,6 +2314,7 @@ SplineSet
  242 51 271 74 317 143 c 1
 EndSplineSet
 Kerns2: 681 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" e.sc
 EndChar
 
 StartChar: f
@@ -2349,6 +2355,7 @@ SplineSet
  47 449 l 1
 EndSplineSet
 Kerns2: 681 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 275 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 184 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 180 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 49 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" f.sc
 EndChar
 
 StartChar: g
@@ -2397,6 +2404,7 @@ SplineSet
  477 373 l 1
 EndSplineSet
 Kerns2: 182 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 171 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" g.sc
 EndChar
 
 StartChar: h
@@ -2435,6 +2443,7 @@ SplineSet
  414 59 433 80 476 142 c 1x60
 EndSplineSet
 Kerns2: 681 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" h.sc
 EndChar
 
 StartChar: i
@@ -2470,6 +2479,7 @@ SplineSet
  231 684 262 653 262 616 c 0
 EndSplineSet
 Kerns2: 53 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" i.sc
 Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.TRK
 Substitution2: "'locl' Localized Forms in Latin lookup 1 subtable" i.TRK
 Substitution2: "'locl' Localized Forms in Latin lookup 0 subtable" i.TRK
@@ -2506,6 +2516,7 @@ SplineSet
  144 654 175 685 210 685 c 0
  248 685 279 654 279 617 c 0
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" j.sc
 EndChar
 
 StartChar: k
@@ -2542,6 +2553,7 @@ SplineSet
  483 449 l 1x40
 EndSplineSet
 Kerns2: 188 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" k.sc
 EndChar
 
 StartChar: l
@@ -2570,6 +2582,7 @@ SplineSet
  155 676 204 683 290 699 c 1
 EndSplineSet
 Kerns2: 90 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" l.sc
 EndChar
 
 StartChar: m
@@ -2620,6 +2633,7 @@ SplineSet
  693 124 697 130 701 135 c 1x60
 EndSplineSet
 Kerns2: 90 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" m.sc
 EndChar
 
 StartChar: n
@@ -2659,6 +2673,7 @@ SplineSet
  418 59 432 73 472 135 c 1x60
 EndSplineSet
 Kerns2: 681 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -43 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" n.sc
 EndChar
 
 StartChar: o
@@ -2687,6 +2702,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 681 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" o.sc
 EndChar
 
 StartChar: p
@@ -2727,6 +2743,7 @@ SplineSet
  177 347 l 1
 EndSplineSet
 Kerns2: 90 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" p.sc
 EndChar
 
 StartChar: q
@@ -2765,6 +2782,7 @@ SplineSet
  471 449 l 1
 EndSplineSet
 Kerns2: 86 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" q.sc
 EndChar
 
 StartChar: r
@@ -2793,6 +2811,7 @@ SplineSet
  160 253 l 1
 EndSplineSet
 Kerns2: 681 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 275 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 184 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 180 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 167 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -46 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" r.sc
 EndChar
 
 StartChar: s
@@ -2830,6 +2849,7 @@ SplineSet
  333 461 l 1
 EndSplineSet
 Kerns2: 681 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" s.sc
 EndChar
 
 StartChar: t
@@ -2861,6 +2881,7 @@ SplineSet
  281 407 l 1
 EndSplineSet
 Kerns2: 681 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" t.sc
 EndChar
 
 StartChar: u
@@ -2898,6 +2919,7 @@ SplineSet
  416 59 436 79 471 133 c 1
 EndSplineSet
 Kerns2: 681 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" u.sc
 EndChar
 
 StartChar: v
@@ -2926,6 +2948,7 @@ SplineSet
  58 402 46 408 15 408 c 1
 EndSplineSet
 Kerns2: 184 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" v.sc
 EndChar
 
 StartChar: w
@@ -2962,6 +2985,7 @@ SplineSet
  387 462 l 1
 EndSplineSet
 Kerns2: 184 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" w.sc
 EndChar
 
 StartChar: x
@@ -3000,6 +3024,7 @@ SplineSet
  41 438 l 1x60
 EndSplineSet
 Kerns2: 169 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" x.sc
 EndChar
 
 StartChar: y
@@ -3035,6 +3060,7 @@ SplineSet
  239 110 l 1
 EndSplineSet
 Kerns2: 184 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" y.sc
 EndChar
 
 StartChar: z
@@ -3063,6 +3089,7 @@ SplineSet
  320.440818138 129.650757032 315 123 329 153 c 1
  355 153 l 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" z.sc
 EndChar
 
 StartChar: braceleft
@@ -5614,6 +5641,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" agrave.sc
 EndChar
 
 StartChar: aacute
@@ -5658,6 +5686,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" aacute.sc
 EndChar
 
 StartChar: acircumflex
@@ -5702,6 +5731,7 @@ SplineSet
  350 63 354 57 362 57 c 0
  378 57 394 72 435 127 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" acircumflex.sc
 EndChar
 
 StartChar: atilde
@@ -5750,6 +5780,7 @@ SplineSet
  378 618 393 613 405 613 c 0x30
  428 613 441 623 456 655 c 1x28
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" atilde.sc
 EndChar
 
 StartChar: adieresis
@@ -5798,6 +5829,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" adieresis.sc
 EndChar
 
 StartChar: aring
@@ -5846,6 +5878,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" aring.sc
 EndChar
 
 StartChar: ae
@@ -5890,6 +5923,7 @@ SplineSet
  473 459 l 1
 EndSplineSet
 Kerns2: 90 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ae.sc
 EndChar
 
 StartChar: ccedilla
@@ -5932,6 +5966,7 @@ SplineSet
  64 -100 56 -101 44 -104 c 1
  31 -92 l 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ccedilla.sc
 EndChar
 
 StartChar: egrave
@@ -5967,6 +6002,7 @@ SplineSet
  135 79 157 51 199 51 c 0
  242 51 271 74 317 143 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" egrave.sc
 EndChar
 
 StartChar: eacute
@@ -6003,6 +6039,7 @@ SplineSet
  242 51 271 74 317 143 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" eacute.sc
 EndChar
 
 StartChar: ecircumflex
@@ -6040,6 +6077,7 @@ SplineSet
  242 51 271 74 317 143 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ecircumflex.sc
 EndChar
 
 StartChar: edieresis
@@ -6078,6 +6116,7 @@ SplineSet
  135 79 157 51 199 51 c 0
  242 51 271 74 317 143 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" edieresis.sc
 EndChar
 
 StartChar: igrave
@@ -6113,6 +6152,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" igrave.sc
 EndChar
 
 StartChar: iacute
@@ -6148,6 +6188,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" iacute.sc
 EndChar
 
 StartChar: icircumflex
@@ -6184,6 +6225,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" icircumflex.sc
 EndChar
 
 StartChar: idieresis
@@ -6223,6 +6265,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" idieresis.sc
 EndChar
 
 StartChar: eth
@@ -6308,6 +6351,7 @@ SplineSet
  388 618 403 613 415 613 c 0x30
  438 613 451 623 466 655 c 1x28
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ntilde.sc
 EndChar
 
 StartChar: ograve
@@ -6343,6 +6387,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ograve.sc
 EndChar
 
 StartChar: oacute
@@ -6378,6 +6423,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" oacute.sc
 EndChar
 
 StartChar: ocircumflex
@@ -6414,6 +6460,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 85 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ocircumflex.sc
 EndChar
 
 StartChar: otilde
@@ -6453,6 +6500,7 @@ SplineSet
  366 618 381 613 393 613 c 0xc0
  416 613 429 623 444 655 c 1xa0
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" otilde.sc
 EndChar
 
 StartChar: odieresis
@@ -6492,6 +6540,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" odieresis.sc
 EndChar
 
 StartChar: divide
@@ -6601,6 +6650,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ugrave.sc
 EndChar
 
 StartChar: uacute
@@ -6644,6 +6694,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" uacute.sc
 EndChar
 
 StartChar: ucircumflex
@@ -6688,6 +6739,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ucircumflex.sc
 EndChar
 
 StartChar: udieresis
@@ -6735,6 +6787,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
+Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" udieresis.sc
 EndChar
 
 StartChar: yacute
@@ -32865,6 +32918,2099 @@ SplineSet
  162 129 188 106 221 106 c 0
  255 106 268 115 272 123 c 0
  293 160 348 294 348 399 c 0
+EndSplineSet
+EndChar
+
+StartChar: a.sc
+Encoding: 65580 -1 885
+Width: 595
+VWidth: 750
+Flags: W
+HStem: 0 19<-10 18.4294 107.637 152 285 329.304 491.403 535> 156 30<178 331>
+LayerCount: 2
+Fore
+SplineSet
+331 186 m 1
+ 300 369 l 1
+ 178 186 l 1
+ 331 186 l 1
+535 0 m 1
+ 285 0 l 1
+ 285 19 l 1
+ 329 22 349 34 349 56 c 0
+ 349 60 348 63 347 67 c 2
+ 337 156 l 1
+ 160 156 l 1
+ 112 84 l 2
+ 103 70 99 58 99 47 c 0
+ 99 29 112 19 152 19 c 1
+ 152 0 l 1
+ -10 0 l 1
+ -10 19 l 1
+ 21 22 36 39 61 76 c 2
+ 366 513 l 1
+ 386 513 l 1
+ 464 93 l 2
+ 475 31 483 22 535 19 c 1
+ 535 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: b.sc
+Encoding: 65581 -1 886
+Width: 602
+VWidth: 748
+Flags: W
+HStem: -1 24<32 77.6113 218.797 315.295> 252 23<281 355.662> 476 24<149 206.205 341.543 414.736>
+VStem: 398 126<85.5428 216.324> 446 121<327.169 450.716>
+LayerCount: 2
+Fore
+SplineSet
+275 252 m 1xf0
+ 222 75 l 2
+ 218 61 215 53 215 47 c 0
+ 215 30 231 23 263 23 c 0
+ 307 23 338 39 363 67 c 0
+ 387 93 398 132 398 170 c 0
+ 398 198 388 220 369 234 c 0
+ 351 246 329 250 275 252 c 1xf0
+328 431 m 2
+ 281 275 l 1
+ 338 279 376 279 407 305 c 0
+ 431 326 446 359 446 401 c 0xe8
+ 446 451 422 476 374 476 c 0
+ 348 476 340 473 328 431 c 2
+149 500 m 1
+ 368 500 l 2
+ 501 500 567 463 567 391 c 0xe8
+ 567 309 496 287 411 265 c 1
+ 411 264 l 1
+ 490 244 524 209 524 153 c 0xf0
+ 524 53 432 -1 281 -1 c 2
+ 32 -1 l 1
+ 32 17 l 1
+ 72 21 88 36 101 80 c 2
+ 199 408 l 2
+ 205 427 209 443 209 451 c 0
+ 209 480 181 482 149 482 c 1
+ 149 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: c.sc
+Encoding: 65582 -1 887
+Width: 611
+VWidth: 748
+Flags: W
+HStem: -15 40<270.636 415.807> 486 26<388.172 499.926>
+VStem: 89 126<84.9603 282.666> 552 26<338.923 365.333>
+LayerCount: 2
+Fore
+SplineSet
+620 512 m 1
+ 578 336 l 1
+ 552 340 l 1
+ 554 350 554 357 554 367 c 0
+ 554 437 516 486 446 486 c 0
+ 402 486 357 463 326 431 c 0
+ 262 366 215 266 215 155 c 0
+ 215 73 266 25 343 25 c 0
+ 415 25 456 57 511 114 c 1
+ 538 97 l 1
+ 512 64 497 50 473 34 c 0
+ 426 2 367 -15 309 -15 c 0
+ 175 -15 89 61 89 174 c 0
+ 89 285 140 380 220 442 c 0
+ 277 486 348 512 425 512 c 0
+ 459 512 496 506 533 496 c 0
+ 545 492 557 490 564 490 c 0
+ 576 490 585 496 596 512 c 1
+ 620 512 l 1
+EndSplineSet
+EndChar
+
+StartChar: d.sc
+Encoding: 65583 -1 888
+Width: 651
+VWidth: 748
+Flags: W
+HStem: -1 25<206.889 324.509> -1 18<18 52.5526> 477 23<133 162 327.165 428.445>
+VStem: 499 122<201.311 393.94>
+LayerCount: 2
+Fore
+SplineSet
+318 449 m 2xb0
+ 214 100 l 2
+ 205 71 202 59 202 50 c 0
+ 202 32 219 24 250 24 c 0
+ 322 24 379 50 423 103 c 0
+ 474 164 499 247 499 341 c 0
+ 499 433 455 477 364 477 c 0
+ 336 477 325 470 318 449 c 2xb0
+133 500 m 1
+ 373 500 l 2
+ 529 500 621 424 621 302 c 0
+ 621 220 584 138 522 86 c 0
+ 457 31 365 -1 255 -1 c 2xb0
+ 18 -1 l 1
+ 18 17 l 1x70
+ 58 21 73 34 87 80 c 2
+ 181 397 l 2
+ 192 431 194 442 194 450 c 0
+ 194 468 186 475 162 478 c 2
+ 133 482 l 1
+ 133 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: e.sc
+Encoding: 65584 -1 889
+Width: 604
+VWidth: 748
+Flags: W
+HStem: -1 24<32 80.1305 219.309 369.696> 252 24<281 363.373> 476 24<147 174 343.19 475.45>
+VStem: 390 23<150.087 171.525> 450 24<337.853 353.875> 536 22<362 385.611>
+LayerCount: 2
+Fore
+SplineSet
+594 500 m 1
+ 558 358 l 1
+ 536 362 l 1
+ 534 415 533 434 499 454 c 0
+ 475 468 437 476 386 476 c 0
+ 352 476 341 472 331 438 c 2
+ 281 276 l 1
+ 390 276 412 286 450 356 c 1
+ 474 353 l 1
+ 413 148 l 1
+ 390 151 l 1
+ 392 165 393 174 393 184 c 0
+ 393 236 368 252 274 252 c 1
+ 222 77 l 2
+ 218 62 215 53 215 48 c 0
+ 215 30 231 23 266 23 c 0
+ 339 23 396 36 443 68 c 0
+ 474 88 489 106 518 148 c 1
+ 538 144 l 1
+ 489 -1 l 1
+ 32 -1 l 1
+ 32 17 l 1
+ 75 23 87 31 101 77 c 2
+ 199 401 l 2
+ 207 426 208 443 208 454 c 0
+ 208 469 199 476 174 479 c 2
+ 147 482 l 1
+ 147 500 l 1
+ 594 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: f.sc
+Encoding: 65585 -1 890
+Width: 606
+VWidth: 748
+Flags: W
+HStem: -1 18<46 83.1075 241.75 289> 252 24<295 370.506> 476 24<161 187 357.376 487.179>
+VStem: 398 23<150.783 171.917> 458 23<335.151 353.913> 543 23<362 386.4>
+LayerCount: 2
+Fore
+SplineSet
+601 500 m 1
+ 566 358 l 1
+ 543 362 l 1
+ 543 400 539 422 526 437 c 0
+ 500 467 467 476 398 476 c 0
+ 364 476 354 468 345 440 c 2
+ 295 276 l 1
+ 403 277 423 286 458 356 c 1
+ 481 353 l 1
+ 421 148 l 1
+ 398 152 l 1
+ 400 166 401 175 401 185 c 0
+ 401 236 376 250 288 252 c 1
+ 243 98 l 2
+ 236 76 229 60 229 50 c 0
+ 229 27 243 20 289 17 c 1
+ 289 -1 l 1
+ 46 -1 l 1
+ 46 17 l 1
+ 94 21 102 36 114 77 c 2
+ 213 408 l 2
+ 217 425 222 443 222 454 c 0
+ 222 469 212 476 187 479 c 2
+ 161 482 l 1
+ 161 500 l 1
+ 601 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: g.sc
+Encoding: 65586 -1 891
+Width: 658
+VWidth: 748
+Flags: W
+HStem: -15 28<277.488 408.696> 226 20<408 460.578 607.694 646> 485 27<382.276 504.033>
+VStem: 80 130<97.485 284.091> 560 23<349 373.023> 600 26<496.407 512>
+LayerCount: 2
+Fore
+SplineSet
+646 246 m 1
+ 646 226 l 1
+ 604 223 596 216 578 154 c 2
+ 541 29 l 1
+ 518 19 l 2
+ 471 -1 388 -15 324 -15 c 0
+ 179 -15 80 62 80 190 c 0
+ 80 288 134 381 216 443 c 0
+ 278 489 349 512 433 512 c 0
+ 470 512 501 507 536 496 c 0
+ 551 491 557 490 565 490 c 0
+ 581 490 591 496 600 512 c 1
+ 626 512 l 1
+ 583 346 l 1
+ 560 349 l 1
+ 558 395 553 418 540 439 c 0
+ 521 469 487 485 444 485 c 0
+ 387 485 338 454 302 412 c 0
+ 247 347 210 253 210 160 c 0
+ 210 62 256 13 344 13 c 0
+ 376 13 411 22 422 36 c 1
+ 448 114 l 2
+ 466 170 470 180 470 199 c 0
+ 470 206 465 214 461 217 c 0
+ 452 221 443 223 408 226 c 1
+ 408 246 l 1
+ 646 246 l 1
+EndSplineSet
+EndChar
+
+StartChar: h.sc
+Encoding: 65587 -1 892
+Width: 709
+VWidth: 748
+Flags: W
+HStem: -1 18<48 85.3336 248.3 291 350 398.129 561.433 610> 245 33<297 485> 482 18<164 189 373.551 424 482 508 688.429 727>
+LayerCount: 2
+Fore
+SplineSet
+727 500 m 1
+ 727 482 l 1
+ 686 482 671 466 660 426 c 2
+ 567 120 l 2
+ 555 77 550 59 550 48 c 0
+ 550 26 565 19 610 17 c 1
+ 610 -1 l 1
+ 350 -1 l 1
+ 350 17 l 1
+ 405 20 419 30 433 77 c 2
+ 485 245 l 1
+ 287 245 l 1
+ 243 98 l 2
+ 234 71 233 58 233 47 c 0
+ 233 36 238 21 291 17 c 1
+ 291 -1 l 1
+ 48 -1 l 1
+ 48 17 l 1
+ 90 22 102 29 115 73 c 2
+ 214 408 l 2
+ 221 429 224 443 224 452 c 0
+ 224 468 214 476 189 479 c 2
+ 164 482 l 1
+ 164 500 l 1
+ 424 500 l 1
+ 424 482 l 1
+ 370 480 355 471 340 422 c 2
+ 297 278 l 1
+ 495 278 l 1
+ 533 408 l 2
+ 537 422 541 445 541 454 c 0
+ 541 469 533 476 508 479 c 2
+ 482 482 l 1
+ 482 500 l 1
+ 727 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: i.sc
+Encoding: 65588 -1 893
+Width: 353
+VWidth: 748
+Flags: W
+HStem: -1 18<7 44.7559 202.279 251> 482 18<122 148 329.703 367>
+LayerCount: 2
+Fore
+SplineSet
+367 500 m 1
+ 367 482 l 1
+ 326 478 312 469 298 422 c 2
+ 206 113 l 2
+ 195 75 192 59 192 47 c 0
+ 192 26 204 19 251 17 c 1
+ 251 -1 l 1
+ 7 -1 l 1
+ 7 17 l 1
+ 48 21 60 26 75 79 c 2
+ 172 401 l 2
+ 179 423 183 445 183 454 c 0
+ 183 469 170 477 148 479 c 2
+ 122 482 l 1
+ 122 500 l 1
+ 367 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: j.sc
+Encoding: 65589 -1 894
+Width: 453
+VWidth: 736
+Flags: W
+HStem: -88 27<89.8183 138.985> 469 19<228 256 434.732 474>
+VStem: 4 85<-59.5067 12.0115>
+LayerCount: 2
+Fore
+SplineSet
+474 488 m 1
+ 474 469 l 1
+ 433 465 420 461 404 405 c 2
+ 304 63 l 2
+ 274 -38 208 -88 126 -88 c 0
+ 53 -88 4 -61 4 -12 c 0
+ 4 18 26 42 56 42 c 0
+ 85 42 108 23 108 -7 c 0
+ 108 -30 89 -33 89 -47 c 0
+ 89 -56 97 -61 112 -61 c 0
+ 143 -61 154 -38 185 67 c 2
+ 279 391 l 2
+ 288 420 290 431 290 439 c 0
+ 290 453 280 461 256 465 c 2
+ 228 469 l 1
+ 228 488 l 1
+ 474 488 l 1
+EndSplineSet
+EndChar
+
+StartChar: k.sc
+Encoding: 65590 -1 895
+Width: 609
+VWidth: 748
+Flags: W
+HStem: -1 18<42 79.5844 237.606 279 334 355 530.985 564> 482 18<157 184 371.127 414 464 482 600 639>
+LayerCount: 2
+Fore
+SplineSet
+639 500 m 1
+ 639 482 l 1
+ 604 478 596 475 561 446 c 2
+ 383 296 l 1
+ 513 47 l 2
+ 522 29 533 20 564 17 c 1
+ 564 -1 l 1
+ 333 -1 l 1
+ 334 17 l 1
+ 355 20 l 2
+ 377 23 387 28 387 38 c 0
+ 387 47 384 58 375 74 c 2
+ 283 251 l 1
+ 228 65 l 2
+ 227 61 227 56 227 52 c 0
+ 227 27 236 20 279 17 c 1
+ 279 -1 l 1
+ 42 -1 l 1
+ 42 17 l 1
+ 79 21 97 28 108 68 c 2
+ 209 408 l 2
+ 216 429 218 443 218 452 c 0
+ 218 468 209 476 184 479 c 2
+ 157 482 l 1
+ 157 500 l 1
+ 414 500 l 1
+ 414 482 l 1
+ 366 478 347 467 336 428 c 2
+ 285 257 l 1
+ 448 389 l 2
+ 496 428 510 447 510 461 c 0
+ 510 472 503 478 482 480 c 2
+ 464 482 l 1
+ 464 500 l 1
+ 639 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: l.sc
+Encoding: 65591 -1 896
+Width: 553
+VWidth: 748
+Flags: W
+HStem: -1 24<31 78.2888 220.016 369.856> 482 18<146 195.744 358.36 408>
+LayerCount: 2
+Fore
+SplineSet
+537 145 m 1
+ 486 -1 l 1
+ 31 -1 l 1
+ 31 17 l 1
+ 76 22 87 36 99 76 c 2
+ 199 408 l 2
+ 203 422 208 445 208 454 c 0
+ 208 469 199 475 174 478 c 0
+ 165 480 155 481 146 482 c 1
+ 146 500 l 1
+ 408 500 l 1
+ 408 482 l 1
+ 353 479 338 469 327 429 c 2
+ 220 74 l 2
+ 217 62 216 51 216 45 c 0
+ 216 29 238 23 275 23 c 0
+ 332 23 380 33 422 56 c 0
+ 465 79 485 101 517 149 c 1
+ 537 145 l 1
+EndSplineSet
+EndChar
+
+StartChar: m.sc
+Encoding: 65592 -1 897
+Width: 810
+VWidth: 747
+Flags: W
+HStem: -12 21G<310.327 350.372> -3 19<54 81.4688 175.145 224 460 509.616 666.494 717> 480 19<178 232.067 797.402 834>
+LayerCount: 2
+Fore
+SplineSet
+834 499 m 1x60
+ 834 480 l 1
+ 792 476 779 465 765 419 c 2
+ 666 91 l 2
+ 662 78 658 57 658 48 c 0
+ 658 24 669 16 717 16 c 1
+ 717 -3 l 1
+ 460 -3 l 1
+ 460 16 l 1x60
+ 517 19 531 31 544 75 c 2
+ 645 418 l 1
+ 336 -12 l 1
+ 313 -12 l 1xa0
+ 257 407 l 1
+ 174 131 l 2
+ 163 93 158 75 158 62 c 0
+ 158 28 171 20 224 16 c 1
+ 224 -3 l 1
+ 54 -3 l 1
+ 54 16 l 1
+ 98 25 108 41 138 134 c 2
+ 227 410 l 2
+ 233 430 236 444 236 454 c 0
+ 236 475 231 480 178 480 c 1
+ 178 499 l 1
+ 358 499 l 1
+ 402 139 l 1
+ 660 499 l 1
+ 834 499 l 1x60
+EndSplineSet
+EndChar
+
+StartChar: n.sc
+Encoding: 65593 -1 898
+Width: 658
+VWidth: 746
+Flags: W
+HStem: -15 21G<444.684 484.211> -3 18<41 71.0116 167.106 210> 480 19<155 197.905 508 556.422 648.87 680>
+LayerCount: 2
+Fore
+SplineSet
+680 499 m 1x60
+ 680 480 l 1
+ 634 472 626 462 596 365 c 2
+ 478 -15 l 1
+ 455 -15 l 1xa0
+ 243 396 l 1
+ 161 130 l 2
+ 151 98 145 74 145 60 c 0
+ 145 31 162 19 210 15 c 1
+ 210 -3 l 1
+ 41 -3 l 1
+ 41 15 l 1
+ 86 23 91 28 125 132 c 2
+ 224 437 l 1
+ 209 470 200 476 155 480 c 1
+ 155 499 l 1
+ 315 499 l 1
+ 493 148 l 1
+ 560 365 l 2
+ 569 396 576 421 576 435 c 0
+ 576 463 558 480 508 480 c 1
+ 508 499 l 1
+ 680 499 l 1x60
+EndSplineSet
+EndChar
+
+StartChar: o.sc
+Encoding: 65594 -1 899
+Width: 658
+VWidth: 748
+Flags: W
+HStem: -15 25<243.378 339.523> 487 25<375.861 475.454>
+VStem: 85 119<71.4403 236.308> 514 119<261.844 418.068>
+LayerCount: 2
+Fore
+SplineSet
+514 394 m 0
+ 514 456 480 487 430 487 c 0
+ 378 487 339 460 297 397 c 0
+ 247 321 204 195 204 106 c 0
+ 204 50 236 10 288 10 c 0
+ 341 10 376 41 417 96 c 0
+ 472 170 514 309 514 394 c 0
+633 331 m 0
+ 633 235 572 128 484 57 c 0
+ 427 11 357 -15 280 -15 c 0
+ 163 -15 85 48 85 164 c 0
+ 85 265 148 375 239 443 c 0
+ 298 487 364 512 433 512 c 0
+ 546 512 633 441 633 331 c 0
+EndSplineSet
+EndChar
+
+StartChar: p.sc
+Encoding: 65595 -1 900
+Width: 554
+VWidth: 748
+Flags: W
+HStem: -1 18<28 63.6318 223.423 271> 236 27<273 373.542> 476 24<143 171 334.82 409.399>
+VStem: 436 121<315.708 449.932>
+LayerCount: 2
+Fore
+SplineSet
+324 437 m 2
+ 273 265 l 1
+ 287 263 296 263 307 263 c 0
+ 358 263 388 276 410 309 c 0
+ 428 335 436 379 436 411 c 0
+ 436 451 411 476 367 476 c 0
+ 338 476 334 470 324 437 c 2
+143 500 m 1
+ 377 500 l 2
+ 498 500 557 460 557 384 c 0
+ 557 344 540 311 509 286 c 0
+ 469 254 408 236 332 236 c 0
+ 310 236 293 237 264 240 c 1
+ 220 91 l 2
+ 216 78 212 55 212 47 c 0
+ 212 27 225 19 271 17 c 1
+ 271 -1 l 1
+ 28 -1 l 1
+ 28 17 l 1
+ 71 23 82 30 97 79 c 2
+ 194 398 l 2
+ 203 427 205 443 205 454 c 0
+ 205 469 196 476 171 479 c 2
+ 143 482 l 1
+ 143 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: q.sc
+Encoding: 65596 -1 901
+Width: 658
+VWidth: 730
+Flags: W
+HStem: -139 68<351.916 500.052> -33 26<263.021 338.482> 469 26<376.012 475.029>
+VStem: 85 119<55.9074 212.417> 514 119<253.028 402.555>
+LayerCount: 2
+Fore
+SplineSet
+514 380 m 0
+ 514 433 480 469 430 469 c 0
+ 378 469 337 441 297 380 c 0
+ 247 304 204 165 204 83 c 0
+ 204 28 236 -7 288 -7 c 0
+ 344 -7 391 36 427 96 c 0
+ 474 175 514 300 514 380 c 0
+230 -32 m 1
+ 232 -29 l 1
+ 228 -27 226 -27 219 -25 c 0
+ 135 2 85 57 85 139 c 0
+ 85 251 146 359 234 425 c 0
+ 292 469 361 495 433 495 c 0
+ 549 495 633 421 633 320 c 0
+ 633 227 586 128 505 57 c 0
+ 433 -6 388 -28 271 -32 c 1
+ 264 -33 l 1
+ 261 -33 l 1
+ 296 -37 328 -42 388 -59 c 4
+ 419 -68 436 -71 458 -71 c 0
+ 509 -71 538 -58 586 -13 c 1
+ 603 -27 l 1
+ 538 -113 480 -139 390 -139 c 0
+ 356 -139 329 -134 278 -119 c 0
+ 235 -107 216 -103 192 -103 c 0
+ 166 -103 143 -108 97 -124 c 1
+ 86 -106 l 1
+ 230 -32 l 1
+EndSplineSet
+EndChar
+
+StartChar: r.sc
+Encoding: 65597 -1 902
+Width: 601
+VWidth: 748
+Flags: W
+HStem: -1 18<29 62.7661 224 272 506.54 550> 247 24<277 295> 476 24<143 169 338.306 415.748>
+VStem: 441 125<327.33 451.85>
+LayerCount: 2
+Fore
+SplineSet
+324 436 m 2
+ 277 271 l 1
+ 328 272 360 277 382 290 c 0
+ 418 310 441 355 441 405 c 0
+ 441 451 418 476 374 476 c 0
+ 349 476 334 470 324 436 c 2
+143 500 m 1
+ 378 500 l 2
+ 499 500 566 465 566 393 c 0
+ 566 341 537 308 487 280 c 0
+ 467 269 445 263 408 256 c 1
+ 477 65 l 2
+ 490 28 504 21 550 17 c 1
+ 550 -1 l 1
+ 383 -1 l 1
+ 295 247 l 1
+ 269 247 l 1
+ 227 110 l 2
+ 216 74 212 59 212 49 c 0
+ 212 27 224 20 272 17 c 1
+ 272 -1 l 1
+ 29 -1 l 1
+ 29 17 l 1
+ 70 21 84 36 97 80 c 2
+ 196 408 l 2
+ 200 422 203 445 203 454 c 0
+ 203 469 197 477 169 479 c 2
+ 143 482 l 1
+ 143 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: s.sc
+Encoding: 65598 -1 903
+Width: 504
+VWidth: 748
+Flags: W
+HStem: -15 25<176.181 282.385> 486 26<267.343 368.056>
+VStem: 77 24<113.207 152> 130 100<354.464 441.047> 332 100<63.3367 161.413> 425 22<361 390.03>
+LayerCount: 2
+Fore
+SplineSet
+480 509 m 1xf8
+ 447 358 l 1
+ 425 361 l 1xf4
+ 421 393 418 417 407 436 c 0
+ 388 470 354 486 311 486 c 0
+ 267 486 230 456 230 407 c 0
+ 230 362 261 342 319 304 c 0
+ 407 246 432 210 432 142 c 0
+ 432 79 398 30 341 4 c 0
+ 313 -8 279 -15 242 -15 c 0
+ 209 -15 183 -10 142 3 c 0
+ 123 9 112 11 103 11 c 0
+ 88 11 83 7 73 -15 c 1
+ 48 -15 l 1
+ 77 154 l 1
+ 101 152 l 1
+ 108 102 115 75 141 48 c 0
+ 163 25 193 10 229 10 c 0
+ 260 10 283 19 301 36 c 0
+ 320 53 332 71 332 105 c 0
+ 332 149 305 176 238 220 c 0
+ 171 264 130 306 130 369 c 0
+ 130 455 204 512 299 512 c 0
+ 372 512 388 490 419 490 c 0
+ 437 490 447 495 455 509 c 1
+ 480 509 l 1xf8
+EndSplineSet
+EndChar
+
+StartChar: t.sc
+Encoding: 65599 -1 904
+Width: 564
+VWidth: 748
+Flags: W
+HStem: -1 18<101 155.038 322.276 374> 474 26<231.931 312 431 501.164>
+VStem: 110 21<370.333 384.758> 546 22<358 389.6>
+LayerCount: 2
+Fore
+SplineSet
+598 500 m 1
+ 568 356 l 1
+ 546 358 l 1
+ 546 444 513 474 431 474 c 1
+ 320 107 l 2
+ 314 89 306 68 306 52 c 0
+ 306 30 324 17 374 17 c 1
+ 374 -1 l 1
+ 101 -1 l 1
+ 101 17 l 1
+ 114 17 l 2
+ 151 17 178 32 189 71 c 2
+ 312 474 l 1
+ 228 472 173 447 131 367 c 1
+ 110 372 l 1
+ 143 500 l 1
+ 598 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: u.sc
+Encoding: 65600 -1 905
+Width: 665
+VWidth: 746
+Flags: W
+HStem: -17 42<265.111 422.503> 479 19<151 177 359.889 407 514 561.051 651.053 684>
+VStem: 127 113<47.1346 198.664>
+LayerCount: 2
+Fore
+SplineSet
+684 498 m 1
+ 684 479 l 1
+ 639 471 632 469 601 369 c 2
+ 547 194 l 2
+ 523 114 495 53 447 18 c 0
+ 415 -5 372 -17 310 -17 c 0
+ 202 -17 127 25 127 105 c 0
+ 127 135 137 181 156 247 c 2
+ 199 392 l 2
+ 208 420 211 441 211 450 c 0
+ 211 466 203 475 177 477 c 2
+ 151 479 l 1
+ 151 498 l 1
+ 407 498 l 1
+ 407 479 l 1
+ 356 477 343 466 330 422 c 2
+ 263 202 l 2
+ 241 132 240 122 240 101 c 0
+ 240 47 278 25 341 25 c 0
+ 386 25 418 38 442 60 c 0
+ 477 93 497 146 516 208 c 2
+ 563 365 l 2
+ 573 398 579 424 579 437 c 0
+ 579 464 561 479 514 479 c 1
+ 514 498 l 1
+ 684 498 l 1
+EndSplineSet
+EndChar
+
+StartChar: v.sc
+Encoding: 65601 -1 906
+Width: 617
+VWidth: 746
+Flags: W
+HStem: -17 21G<255.727 298.909> 479 19<123 165.445 313.487 367 501 546.125 633.079 658>
+LayerCount: 2
+Fore
+SplineSet
+658 498 m 1
+ 658 479 l 1
+ 634 475 617 460 607 446 c 2
+ 285 -17 l 1
+ 259 -17 l 1
+ 196 368 l 2
+ 180 470 174 479 123 479 c 1
+ 123 498 l 1
+ 367 498 l 1
+ 367 479 l 1
+ 311 475 305 472 305 446 c 0
+ 305 442 305 432 306 428 c 2
+ 348 133 l 1
+ 502 356 l 2
+ 537 408 554 436 554 452 c 0
+ 554 466 544 476 521 478 c 2
+ 501 479 l 1
+ 501 498 l 1
+ 658 498 l 1
+EndSplineSet
+EndChar
+
+StartChar: w.sc
+Encoding: 65602 -1 907
+Width: 821
+VWidth: 746
+Flags: W
+HStem: -17 21G<266.016 303.518 531.384 568.642> 480 18<141 177.516 336.198 370 418 452.528 601.044 638 709 753.436 830.865 863>
+VStem: 477 111<401 470.113>
+LayerCount: 2
+Fore
+SplineSet
+863 498 m 1
+ 863 480 l 1
+ 828 476 818 469 790 419 c 2
+ 558 -17 l 1
+ 534 -17 l 1
+ 486 350 l 1
+ 293 -17 l 1
+ 269 -17 l 1
+ 205 412 l 2
+ 196 465 194 472 141 480 c 1
+ 141 498 l 1
+ 370 498 l 1
+ 370 479 l 1
+ 332 475 319 465 319 442 c 0
+ 319 438 319 432 320 428 c 2
+ 354 166 l 1
+ 477 401 l 1
+ 477 460 468 474 418 480 c 1
+ 418 498 l 1
+ 638 498 l 1
+ 638 479 l 1
+ 594 475 588 467 588 439 c 0
+ 588 430 590 413 593 384 c 2
+ 621 166 l 1
+ 748 411 l 2
+ 758 431 762 437 762 446 c 0
+ 762 473 755 476 709 479 c 1
+ 709 498 l 1
+ 863 498 l 1
+EndSplineSet
+EndChar
+
+StartChar: x.sc
+Encoding: 65603 -1 908
+Width: 608
+VWidth: 748
+Flags: W
+HStem: -1 18<39 66.928 176.75 215 289 334.846 501.718 542> 482 18<140 187.561 368 392 465 481 598.029 631>
+LayerCount: 2
+Fore
+SplineSet
+631 500 m 1
+ 631 482 l 1
+ 601 478 585 470 550 436 c 2
+ 386 282 l 1
+ 447 104 l 2
+ 469 40 483 23 542 17 c 1
+ 542 -1 l 1
+ 289 -1 l 1
+ 289 17 l 1
+ 336 21 344 26 344 46 c 0
+ 344 62 336 94 314 152 c 2
+ 296 197 l 1
+ 190 89 l 2
+ 171 70 163 57 163 47 c 0
+ 163 30 178 20 215 17 c 1
+ 215 -1 l 1
+ 39 -1 l 1
+ 39 17 l 1
+ 85 25 106 53 229 175 c 2
+ 286 230 l 1
+ 217 432 l 2
+ 203 473 190 478 140 482 c 1
+ 140 500 l 1
+ 392 500 l 1
+ 392 482 l 1
+ 368 479 l 2
+ 340 477 331 472 331 455 c 0
+ 331 444 341 411 360 356 c 2
+ 374 314 l 1
+ 452 389 l 2
+ 495 430 509 448 509 462 c 0
+ 509 473 500 478 481 480 c 2
+ 465 482 l 1
+ 465 500 l 1
+ 631 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: y.sc
+Encoding: 65604 -1 909
+Width: 567
+VWidth: 748
+Flags: W
+HStem: -1 18<123 172.144 336.051 390> 482 18<122 156.36 309.345 357 436 481.281 579.24 608>
+LayerCount: 2
+Fore
+SplineSet
+608 500 m 1
+ 608 482 l 1
+ 577 478 557 462 531 428 c 2
+ 376 230 l 1
+ 333 86 l 2
+ 329 71 324 58 324 48 c 0
+ 324 27 339 17 390 17 c 1
+ 390 -1 l 1
+ 123 -1 l 1
+ 123 17 l 1
+ 178 21 195 29 209 76 c 2
+ 256 232 l 1
+ 185 434 l 2
+ 172 470 165 474 122 482 c 1
+ 122 500 l 1
+ 357 500 l 1
+ 357 482 l 1
+ 312 480 300 474 300 452 c 0
+ 300 438 306 420 324 370 c 2
+ 363 263 l 1
+ 468 400 l 2
+ 486 422 492 436 492 450 c 0
+ 492 473 480 480 436 482 c 1
+ 436 500 l 1
+ 608 500 l 1
+EndSplineSet
+EndChar
+
+StartChar: z.sc
+Encoding: 65605 -1 910
+Width: 554
+VWidth: 748
+Flags: W
+HStem: -1 26<178 354.252> 474 26<244.359 399>
+LayerCount: 2
+Fore
+SplineSet
+537 479 m 1
+ 178 25 l 1
+ 241 25 l 2
+ 317 25 362 34 405 62 c 0
+ 435 82 462 114 485 148 c 1
+ 507 144 l 1
+ 457 -1 l 1
+ 40 -1 l 1
+ 40 20 l 1
+ 399 474 l 1
+ 330 474 l 2
+ 243 474 191 447 126 364 c 1
+ 103 367 l 1
+ 152 500 l 1
+ 537 500 l 1
+ 537 479 l 1
+EndSplineSet
+EndChar
+
+StartChar: agrave.sc
+Encoding: 65606 -1 911
+Width: 595
+VWidth: 783
+Flags: W
+HStem: 33 19<-10 18.4294 107.637 152 285 329.304 491.403 535> 189 30<178 331>
+LayerCount: 2
+Fore
+SplineSet
+472 608 m 1
+ 434 608 l 1
+ 325 674 l 2
+ 307 685 297 698 297 710 c 0
+ 297 728 313 744 333 744 c 0
+ 348 744 365 737 380 719 c 2
+ 472 608 l 1
+331 219 m 1
+ 300 402 l 1
+ 178 219 l 1
+ 331 219 l 1
+535 33 m 1
+ 285 33 l 1
+ 285 52 l 1
+ 329 55 349 67 349 89 c 0
+ 349 93 348 96 347 100 c 2
+ 337 189 l 1
+ 160 189 l 1
+ 112 117 l 2
+ 103 103 99 91 99 80 c 0
+ 99 62 112 52 152 52 c 1
+ 152 33 l 1
+ -10 33 l 1
+ -10 52 l 1
+ 21 55 36 72 61 109 c 2
+ 366 546 l 1
+ 386 546 l 1
+ 464 126 l 2
+ 475 64 483 55 535 52 c 1
+ 535 33 l 1
+EndSplineSet
+EndChar
+
+StartChar: aacute.sc
+Encoding: 65607 -1 912
+Width: 595
+VWidth: 783
+Flags: W
+HStem: 33 19<-10 18.4294 107.637 152 285 329.304 491.403 535> 189 30<178 331> 673 71<481 509.452>
+LayerCount: 2
+Fore
+SplineSet
+315 608 m 1
+ 416 706 l 2
+ 446 734 458 744 473 744 c 0
+ 495 744 513 728 513 708 c 0
+ 513 694 505 686 481 673 c 2
+ 355 608 l 1
+ 315 608 l 1
+331 219 m 1
+ 300 402 l 1
+ 178 219 l 1
+ 331 219 l 1
+535 33 m 1
+ 285 33 l 1
+ 285 52 l 1
+ 329 55 349 67 349 89 c 0
+ 349 93 348 96 347 100 c 2
+ 337 189 l 1
+ 160 189 l 1
+ 112 117 l 2
+ 103 103 99 91 99 80 c 0
+ 99 62 112 52 152 52 c 1
+ 152 33 l 1
+ -10 33 l 1
+ -10 52 l 1
+ 21 55 36 72 61 109 c 2
+ 366 546 l 1
+ 386 546 l 1
+ 464 126 l 2
+ 475 64 483 55 535 52 c 1
+ 535 33 l 1
+EndSplineSet
+EndChar
+
+StartChar: acircumflex.sc
+Encoding: 65608 -1 913
+Width: 595
+VWidth: 782
+Flags: W
+HStem: 33 18<-10 18.4294 108.31 152 285 328.173 492.584 535> 189 30<178 331>
+LayerCount: 2
+Fore
+SplineSet
+530 607 m 1
+ 489 607 l 1
+ 416 678 l 1
+ 307 607 l 1
+ 261 607 l 1
+ 393 737 l 1
+ 459 737 l 1
+ 530 607 l 1
+331 219 m 1
+ 300 401 l 1
+ 178 219 l 1
+ 331 219 l 1
+535 33 m 1
+ 285 33 l 1
+ 285 51 l 1
+ 329 54 349 66 349 88 c 0
+ 349 92 348 95 347 99 c 2
+ 337 189 l 1
+ 160 189 l 1
+ 112 117 l 2
+ 103 103 99 90 99 79 c 0
+ 99 61 112 51 152 51 c 1
+ 152 33 l 1
+ -10 33 l 1
+ -10 51 l 1
+ 21 54 36 71 61 108 c 2
+ 366 545 l 1
+ 386 545 l 1
+ 464 125 l 2
+ 475 63 483 54 535 51 c 1
+ 535 33 l 1
+EndSplineSet
+EndChar
+
+StartChar: atilde.sc
+Encoding: 65609 -1 914
+Width: 597
+VWidth: 778
+Flags: W
+HStem: 28 19<-7 20.4294 108.637 153 287 330.897 492.259 537> 184 30<181 334> 618 57<406.322 512.007> 651 56<295.693 402.005>
+VStem: 518 34<685.088 707>
+LayerCount: 2
+Fore
+SplineSet
+334 214 m 1xc8
+ 303 396 l 1
+ 181 214 l 1
+ 334 214 l 1xc8
+537 28 m 1
+ 287 28 l 1
+ 287 47 l 1
+ 331 50 350 62 350 84 c 0
+ 350 88 350 91 349 95 c 2
+ 339 184 l 1
+ 162 184 l 1
+ 115 112 l 2
+ 106 98 100 86 100 75 c 0
+ 100 57 113 47 153 47 c 1
+ 153 28 l 1
+ -7 28 l 1
+ -8 47 l 1
+ 23 50 38 67 63 104 c 2
+ 368 540 l 1
+ 389 540 l 1
+ 466 120 l 2
+ 477 58 485 50 537 47 c 1
+ 537 28 l 1
+518 707 m 1xd8
+ 552 707 l 1xd8
+ 534 644 506 618 456 618 c 0xe8
+ 441 618 430 619 408 627 c 2
+ 360 645 l 2
+ 349 649 338 651 329 651 c 0xd8
+ 311 651 301 642 290 618 c 1
+ 257 618 l 1xe8
+ 268 672 305 707 352 707 c 0xd8
+ 373 707 399 701 433 687 c 0
+ 455 679 467 675 477 675 c 0xe8
+ 496 675 506 683 518 707 c 1xd8
+EndSplineSet
+EndChar
+
+StartChar: adieresis.sc
+Encoding: 65610 -1 915
+Width: 596
+VWidth: 778
+Flags: W
+HStem: 28 19<-9 18.4294 107.637 152 286 330.304 491.259 536> 184 30<179 332> 609 98<267.854 355.748 442.854 530.748>
+VStem: 258 108<619.395 696.146> 433 108<619.395 696.146>
+LayerCount: 2
+Fore
+SplineSet
+366 657 m 0
+ 366 631 341 609 311 609 c 0
+ 282 609 258 631 258 657 c 0
+ 258 684 282 707 311 707 c 0
+ 341 707 366 684 366 657 c 0
+541 657 m 0
+ 541 631 516 609 486 609 c 0
+ 457 609 433 631 433 657 c 0
+ 433 684 457 707 486 707 c 0
+ 516 707 541 684 541 657 c 0
+332 214 m 1
+ 301 396 l 1
+ 179 214 l 1
+ 332 214 l 1
+536 28 m 1
+ 286 28 l 1
+ 286 47 l 1
+ 330 50 350 62 350 84 c 0
+ 350 88 348 91 347 95 c 2
+ 338 184 l 1
+ 160 184 l 1
+ 113 112 l 2
+ 104 98 99 86 99 75 c 0
+ 99 57 112 47 152 47 c 1
+ 152 28 l 1
+ -9 28 l 1
+ -10 47 l 1
+ 21 50 36 67 61 104 c 2
+ 366 540 l 1
+ 387 540 l 1
+ 465 120 l 2
+ 476 58 484 50 536 47 c 1
+ 536 28 l 1
+EndSplineSet
+EndChar
+
+StartChar: aring.sc
+Encoding: 65611 -1 916
+Width: 595
+VWidth: 790
+Flags: W
+HStem: 41 18<-10 18.4294 108.31 152 285 328.173 492.584 535> 197 30<178 331> 634 36<369.416 446.535> 757 36<370.268 446.841>
+VStem: 320 40<678.682 747.833> 457 39<679.399 747.251>
+LayerCount: 2
+Fore
+SplineSet
+457 713 m 0
+ 457 738 435 757 407 757 c 0
+ 382 757 360 737 360 713 c 0
+ 360 689 382 670 407 670 c 0
+ 435 670 457 690 457 713 c 0
+496 714 m 0
+ 496 670 456 634 408 634 c 0
+ 355 634 320 668 320 715 c 0
+ 320 759 361 793 409 793 c 0
+ 461 793 496 758 496 714 c 0
+331 227 m 1
+ 300 409 l 1
+ 178 227 l 1
+ 331 227 l 1
+535 41 m 1
+ 285 41 l 1
+ 285 59 l 1
+ 329 62 349 74 349 96 c 0
+ 349 100 348 103 347 107 c 2
+ 337 197 l 1
+ 160 197 l 1
+ 112 125 l 2
+ 103 111 99 98 99 87 c 0
+ 99 69 112 59 152 59 c 1
+ 152 41 l 1
+ -10 41 l 1
+ -10 59 l 1
+ 21 62 36 79 61 116 c 2
+ 366 553 l 1
+ 386 553 l 1
+ 464 133 l 2
+ 475 71 483 62 535 59 c 1
+ 535 41 l 1
+EndSplineSet
+EndChar
+
+StartChar: ae.sc
+Encoding: 65612 -1 917
+Width: 852
+VWidth: 748
+Flags: W
+HStem: -1 18<22 48.9893 140.011 183 293 324.975 499.426 585.146> 190 29<261 395> 252 24<538 611.808> 469 31<469 479> 476 24<596.109 718.717> 483 17<347 405.047>
+VStem: 638 21<150.667 172.322> 698 20<339.239 354.05> 776 20<362 385.611>
+LayerCount: 2
+Fore
+SplineSet
+479 469 m 1xf380
+ 469 469 l 1
+ 261 219 l 1
+ 403 219 l 1
+ 479 469 l 1xf380
+832 500 m 1xe780
+ 796 358 l 1
+ 776 362 l 1
+ 774 392 l 2
+ 771 448 725 476 639 476 c 0xeb80
+ 604 476 597 472 591 452 c 2
+ 538 276 l 1
+ 554 276 l 2
+ 638 276 665 292 698 356 c 1
+ 718 353 l 1
+ 659 148 l 1
+ 638 152 l 1
+ 640 164 640 178 640 186 c 0
+ 640 236 627 247 532 252 c 1
+ 479 71 l 2
+ 477 62 474 54 474 50 c 0
+ 474 30 497 23 532 23 c 0
+ 596 23 634 32 671 58 c 0
+ 701 78 726 110 755 148 c 1
+ 776 146 l 1
+ 727 -1 l 1
+ 293 -1 l 1
+ 293 17 l 1
+ 336 23 347 38 360 78 c 2
+ 395 190 l 1
+ 237 190 l 1
+ 142 72 l 2
+ 133 62 130 52 130 43 c 0
+ 130 27 143 20 183 17 c 1
+ 183 -1 l 1
+ 22 -1 l 1
+ 22 17 l 1
+ 36 19 39 20 46 24 c 0
+ 50 26 64 37 96 75 c 2
+ 395 429 l 2
+ 405 441 413 454 413 462 c 0
+ 413 476 401 480 347 483 c 1
+ 347 500 l 1
+ 832 500 l 1xe780
+EndSplineSet
+EndChar
+
+StartChar: ccedilla.sc
+Encoding: 65613 -1 918
+Width: 611
+VWidth: 723
+Flags: W
+HStem: -190 31<148.357 249.622> -102 31<202.233 275.5> -40 40<268.371 417.417> 461 26<387.757 500.431>
+VStem: 89 126<60.633 257.037> 254 75<-155.535 -104.304> 552 26<314.923 341.167>
+LayerCount: 2
+Fore
+SplineSet
+620 487 m 1
+ 578 312 l 1
+ 552 316 l 1
+ 554 326 554 332 554 342 c 0
+ 554 416 513 461 446 461 c 0
+ 391 461 342 427 308 386 c 0
+ 253 322 215 226 215 130 c 0
+ 215 48 267 0 340 0 c 0
+ 365 0 390 4 413 13 c 0
+ 448 27 467 44 511 89 c 1
+ 538 72 l 1
+ 512 39 497 25 473 9 c 0
+ 426 -23 371 -40 313 -40 c 0
+ 295 -40 278 -40 260 -37 c 1
+ 233 -73 l 1
+ 242 -71 245 -71 254 -71 c 0
+ 297 -71 329 -93 329 -125 c 0
+ 329 -163 284 -190 226 -190 c 0
+ 196 -190 169 -185 134 -171 c 1
+ 152 -147 l 1
+ 175 -157 190 -159 208 -159 c 0
+ 237 -159 254 -148 254 -129 c 0
+ 254 -112 238 -102 214 -102 c 0
+ 205 -102 200 -103 190 -105 c 1
+ 179 -96 l 1
+ 227 -30 l 1
+ 137 -3 89 65 89 154 c 0
+ 89 249 131 336 197 397 c 0
+ 257 453 337 487 425 487 c 0
+ 459 487 496 481 533 471 c 0
+ 545 467 557 465 564 465 c 0
+ 576 465 585 471 596 487 c 1
+ 620 487 l 1
+EndSplineSet
+EndChar
+
+StartChar: egrave.sc
+Encoding: 65614 -1 919
+Width: 604
+VWidth: 783
+Flags: W
+HStem: 33 24<32 79.232 219.779 366.983> 287 24<281 363.373> 511 24<147 174 343.19 475.45>
+VStem: 390 23<185.087 206.525> 450 24<372.853 388.875> 536 22<396 420.611>
+LayerCount: 2
+Fore
+SplineSet
+492 608 m 1
+ 455 608 l 1
+ 346 674 l 2
+ 328 685 318 698 318 710 c 0
+ 318 728 335 744 355 744 c 0
+ 370 744 386 737 401 719 c 2
+ 492 608 l 1
+594 535 m 1
+ 558 393 l 1
+ 536 396 l 1
+ 534 449 533 469 499 489 c 0
+ 475 503 437 511 386 511 c 0
+ 352 511 341 507 331 473 c 2
+ 281 311 l 1
+ 390 311 412 321 450 391 c 1
+ 474 388 l 1
+ 413 183 l 1
+ 390 186 l 1
+ 392 200 393 209 393 219 c 0
+ 393 271 368 287 274 287 c 1
+ 222 111 l 2
+ 218 96 215 88 215 83 c 0
+ 215 65 231 57 266 57 c 0
+ 339 57 396 71 443 103 c 0
+ 474 123 489 141 518 183 c 1
+ 538 179 l 1
+ 489 33 l 1
+ 32 33 l 1
+ 32 52 l 1
+ 75 58 87 66 101 112 c 2
+ 199 436 l 2
+ 207 461 208 478 208 489 c 0
+ 208 504 199 510 174 513 c 2
+ 147 516 l 1
+ 147 535 l 1
+ 594 535 l 1
+EndSplineSet
+EndChar
+
+StartChar: eacute.sc
+Encoding: 65615 -1 920
+Width: 604
+VWidth: 783
+Flags: W
+HStem: 33 24<32 79.232 219.779 366.983> 287 24<281 363.373> 511 24<147 174 343.19 475.45>
+VStem: 390 23<185.087 206.525> 450 24<372.853 388.875> 536 22<396 420.611>
+LayerCount: 2
+Fore
+SplineSet
+308 608 m 1
+ 408 706 l 2
+ 438 734 451 744 466 744 c 0
+ 488 744 506 728 506 708 c 0
+ 506 694 496 686 472 673 c 2
+ 347 608 l 1
+ 308 608 l 1
+594 535 m 1
+ 558 393 l 1
+ 536 396 l 1
+ 534 449 533 469 499 489 c 0
+ 475 503 437 511 386 511 c 0
+ 352 511 341 507 331 473 c 2
+ 281 311 l 1
+ 390 311 412 321 450 391 c 1
+ 474 388 l 1
+ 413 183 l 1
+ 390 186 l 1
+ 392 200 393 209 393 219 c 0
+ 393 271 368 287 274 287 c 1
+ 222 111 l 2
+ 218 96 215 88 215 83 c 0
+ 215 65 231 57 266 57 c 0
+ 339 57 396 71 443 103 c 0
+ 474 123 489 141 518 183 c 1
+ 538 179 l 1
+ 489 33 l 1
+ 32 33 l 1
+ 32 52 l 1
+ 75 58 87 66 101 112 c 2
+ 199 436 l 2
+ 207 461 208 478 208 489 c 0
+ 208 504 199 510 174 513 c 2
+ 147 516 l 1
+ 147 535 l 1
+ 594 535 l 1
+EndSplineSet
+EndChar
+
+StartChar: ecircumflex.sc
+Encoding: 65616 -1 921
+Width: 604
+VWidth: 782
+Flags: W
+HStem: 33 24<32 80.1305 219.309 369.696> 286 24<281 363.373> 510 24<147 174 343.19 475.45>
+VStem: 390 23<184.087 205.525> 450 24<371.853 387.875> 536 22<395 419.611>
+LayerCount: 2
+Fore
+SplineSet
+538 607 m 1
+ 497 607 l 1
+ 424 678 l 1
+ 315 607 l 1
+ 268 607 l 1
+ 400 737 l 1
+ 467 737 l 1
+ 538 607 l 1
+594 534 m 1
+ 558 392 l 1
+ 536 395 l 1
+ 534 448 533 468 499 488 c 0
+ 475 502 437 510 386 510 c 0
+ 352 510 341 506 331 472 c 2
+ 281 310 l 1
+ 390 310 412 320 450 390 c 1
+ 474 387 l 1
+ 413 182 l 1
+ 390 185 l 1
+ 392 199 393 208 393 218 c 0
+ 393 270 368 286 274 286 c 1
+ 222 111 l 2
+ 218 96 215 87 215 82 c 0
+ 215 64 231 57 266 57 c 0
+ 339 57 396 70 443 102 c 0
+ 474 122 489 140 518 182 c 1
+ 538 178 l 1
+ 489 33 l 1
+ 32 33 l 1
+ 32 51 l 1
+ 75 57 87 65 101 111 c 2
+ 199 435 l 2
+ 207 460 208 477 208 488 c 0
+ 208 503 199 510 174 513 c 2
+ 147 515 l 1
+ 147 534 l 1
+ 594 534 l 1
+EndSplineSet
+EndChar
+
+StartChar: edieresis.sc
+Encoding: 65617 -1 922
+Width: 604
+VWidth: 778
+Flags: W
+HStem: 28 24<32 79.232 219.779 366.983> 282 24<281 360.843> 506 24<147 174 343.19 473.95> 609 98<277.854 365.748 453.854 541.087>
+VStem: 268 108<619.395 696.146> 390 23<179.087 200.639> 444 107<618.686 696.886> 450 24<367.853 383.875> 536 22<391 414.806>
+LayerCount: 2
+Fore
+SplineSet
+376 657 m 0xfc
+ 376 631 351 609 321 609 c 0
+ 292 609 268 631 268 657 c 0
+ 268 684 292 707 321 707 c 0
+ 351 707 376 684 376 657 c 0xfc
+551 657 m 0xfe
+ 551 631 527 609 497 609 c 0
+ 468 609 444 631 444 657 c 0
+ 444 684 468 707 497 707 c 0
+ 527 707 551 684 551 657 c 0xfe
+594 530 m 1
+ 558 387 l 1
+ 536 391 l 1
+ 534 444 533 463 499 483 c 0
+ 475 497 437 506 386 506 c 0
+ 352 506 341 502 331 468 c 2
+ 281 306 l 1
+ 390 306 412 316 450 386 c 1
+ 474 383 l 1xfd80
+ 413 177 l 1
+ 390 180 l 1
+ 392 194 393 203 393 213 c 0
+ 393 265 368 282 274 282 c 1
+ 222 106 l 2
+ 218 91 215 83 215 78 c 0
+ 215 60 231 52 266 52 c 0
+ 339 52 396 66 443 98 c 0
+ 474 118 489 135 518 177 c 1
+ 538 174 l 1
+ 489 28 l 1
+ 32 28 l 1
+ 32 47 l 1
+ 75 53 87 61 101 107 c 2
+ 199 431 l 2
+ 207 456 208 472 208 483 c 0
+ 208 498 199 505 174 508 c 2
+ 147 511 l 1
+ 147 530 l 1
+ 594 530 l 1
+EndSplineSet
+EndChar
+
+StartChar: igrave.sc
+Encoding: 65618 -1 923
+Width: 353
+VWidth: 783
+Flags: W
+HStem: 33 19<7 45.8092 201.531 251> 516 19<122 148 329.703 367>
+LayerCount: 2
+Fore
+SplineSet
+366 608 m 1
+ 328 608 l 1
+ 219 674 l 2
+ 201 685 191 698 191 710 c 0
+ 191 728 208 744 228 744 c 0
+ 243 744 259 737 274 719 c 2
+ 366 608 l 1
+367 535 m 1
+ 367 516 l 1
+ 326 512 312 503 298 456 c 2
+ 206 147 l 2
+ 195 109 192 94 192 82 c 0
+ 192 61 204 54 251 52 c 1
+ 251 33 l 1
+ 7 33 l 1
+ 7 52 l 1
+ 48 56 60 61 75 114 c 2
+ 172 435 l 2
+ 179 457 183 480 183 489 c 0
+ 183 504 170 511 148 513 c 2
+ 122 516 l 1
+ 122 535 l 1
+ 367 535 l 1
+EndSplineSet
+EndChar
+
+StartChar: iacute.sc
+Encoding: 65619 -1 924
+Width: 355
+VWidth: 783
+Flags: W
+HStem: 33 19<9 48.193 204.531 254> 516 19<125 151 333.365 371> 673 71<367 395.452>
+LayerCount: 2
+Fore
+SplineSet
+201 608 m 1
+ 301 706 l 2
+ 331 734 344 744 359 744 c 0
+ 381 744 399 728 399 708 c 0
+ 399 694 391 686 367 673 c 2
+ 241 608 l 1
+ 201 608 l 1
+371 535 m 1
+ 371 516 l 1
+ 330 512 315 503 301 456 c 2
+ 208 147 l 2
+ 197 109 195 94 195 82 c 0
+ 195 61 207 54 254 52 c 1
+ 254 33 l 1
+ 9 33 l 1
+ 9 52 l 1
+ 50 56 63 61 78 114 c 2
+ 174 435 l 2
+ 181 457 186 480 186 489 c 0
+ 186 504 173 511 151 513 c 2
+ 125 516 l 1
+ 125 535 l 1
+ 371 535 l 1
+EndSplineSet
+EndChar
+
+StartChar: icircumflex.sc
+Encoding: 65620 -1 925
+Width: 358
+VWidth: 782
+Flags: W
+HStem: 33 18<12 49.7559 207.279 256> 515 19<128 154 335.703 373>
+LayerCount: 2
+Fore
+SplineSet
+425 607 m 1
+ 383 607 l 1
+ 310 678 l 1
+ 203 607 l 1
+ 155 607 l 1
+ 287 737 l 1
+ 354 737 l 1
+ 425 607 l 1
+373 534 m 1
+ 373 515 l 1
+ 332 511 318 502 304 455 c 2
+ 211 147 l 2
+ 200 109 197 93 197 81 c 0
+ 197 60 209 53 256 51 c 1
+ 256 33 l 1
+ 12 33 l 1
+ 12 51 l 1
+ 53 55 65 60 80 113 c 2
+ 177 435 l 2
+ 184 457 188 479 188 488 c 0
+ 188 503 176 511 154 513 c 2
+ 128 515 l 1
+ 128 534 l 1
+ 373 534 l 1
+EndSplineSet
+EndChar
+
+StartChar: idieresis.sc
+Encoding: 65621 -1 926
+Width: 359
+VWidth: 778
+Flags: W
+HStem: 28 19<13 52.8398 208.102 257> 511 19<128 155 336.703 374> 609 98<163.515 250.087 336.854 424.748>
+VStem: 154 106<618.686 696.886> 327 108<619.395 696.146>
+LayerCount: 2
+Fore
+SplineSet
+260 657 m 0
+ 260 631 236 609 206 609 c 0
+ 177 609 154 631 154 657 c 0
+ 154 684 177 707 206 707 c 0
+ 236 707 260 684 260 657 c 0
+435 657 m 0
+ 435 631 410 609 380 609 c 0
+ 351 609 327 631 327 657 c 0
+ 327 684 351 707 380 707 c 0
+ 410 707 435 684 435 657 c 0
+374 530 m 1
+ 374 511 l 1
+ 333 507 319 498 305 451 c 2
+ 213 142 l 2
+ 202 104 199 89 199 77 c 0
+ 199 56 210 49 257 47 c 1
+ 257 28 l 1
+ 13 28 l 1
+ 13 47 l 1
+ 54 51 66 55 81 108 c 2
+ 178 430 l 2
+ 185 452 189 474 189 483 c 0
+ 189 498 177 506 155 508 c 2
+ 128 511 l 1
+ 128 530 l 1
+ 374 530 l 1
+EndSplineSet
+EndChar
+
+StartChar: ntilde.sc
+Encoding: 65622 -1 927
+Width: 658
+VWidth: 776
+Flags: W
+HStem: 26 19<41 72.3073 165.91 210> 509 19<155 198.877 508 557.56 648.87 680> 616 57<461.424 567.007> 649 56<350.437 458.126>
+VStem: 573 34<683.088 705>
+LayerCount: 2
+Fore
+SplineSet
+680 528 m 1xc8
+ 680 509 l 1
+ 634 501 626 492 596 395 c 2
+ 478 15 l 1
+ 455 15 l 1
+ 243 425 l 1
+ 161 160 l 2
+ 151 128 145 103 145 89 c 0
+ 145 60 162 49 210 45 c 1
+ 210 26 l 1
+ 41 26 l 1
+ 41 45 l 1
+ 86 53 91 57 125 161 c 2
+ 224 467 l 1
+ 209 500 200 505 155 509 c 1
+ 155 528 l 1
+ 315 528 l 1
+ 493 178 l 1
+ 560 395 l 2
+ 569 426 576 451 576 465 c 0
+ 576 493 558 509 508 509 c 1
+ 508 528 l 1
+ 680 528 l 1xc8
+573 705 m 1xd8
+ 607 705 l 1xd8
+ 589 642 561 616 511 616 c 0xe8
+ 496 616 486 617 464 625 c 2
+ 415 643 l 2
+ 404 647 393 649 384 649 c 0
+ 366 649 356 641 345 617 c 1
+ 312 617 l 1
+ 323 671 360 705 407 705 c 0xd8
+ 428 705 454 699 488 685 c 0
+ 510 677 522 673 532 673 c 0xe8
+ 551 673 561 681 573 705 c 1xd8
+EndSplineSet
+EndChar
+
+StartChar: ograve.sc
+Encoding: 65623 -1 928
+Width: 658
+VWidth: 781
+Flags: W
+HStem: 18 25<243.378 339.523> 519 26<374.821 476.294>
+VStem: 85 119<104.002 268.808> 514 119<294.844 451.042>
+LayerCount: 2
+Fore
+SplineSet
+542 606 m 1
+ 503 606 l 1
+ 394 672 l 2
+ 376 683 367 696 367 708 c 0
+ 367 726 384 741 404 741 c 0
+ 419 741 435 735 450 717 c 2
+ 542 606 l 1
+514 427 m 0
+ 514 489 480 519 430 519 c 0
+ 378 519 339 492 297 429 c 0
+ 247 353 204 227 204 138 c 0
+ 204 82 236 43 288 43 c 0
+ 341 43 376 74 417 129 c 0
+ 472 203 514 342 514 427 c 0
+633 364 m 0
+ 633 268 572 161 484 90 c 0
+ 427 44 357 18 280 18 c 0
+ 163 18 85 81 85 197 c 0
+ 85 298 148 408 239 476 c 0
+ 298 520 364 545 433 545 c 0
+ 546 545 633 474 633 364 c 0
+EndSplineSet
+EndChar
+
+StartChar: oacute.sc
+Encoding: 65624 -1 929
+Width: 658
+VWidth: 781
+Flags: W
+HStem: 18 25<243.378 339.523> 519 26<374.821 476.294> 671 70<522 550.452>
+VStem: 85 119<104.002 268.808> 514 119<294.844 451.042>
+LayerCount: 2
+Fore
+SplineSet
+356 606 m 1
+ 457 704 l 2
+ 487 732 499 741 514 741 c 0
+ 536 741 554 726 554 706 c 0
+ 554 692 546 684 522 671 c 2
+ 396 606 l 1
+ 356 606 l 1
+514 427 m 0
+ 514 489 480 519 430 519 c 0
+ 378 519 339 492 297 429 c 0
+ 247 353 204 227 204 138 c 0
+ 204 82 236 43 288 43 c 0
+ 341 43 376 74 417 129 c 0
+ 472 203 514 342 514 427 c 0
+633 364 m 0
+ 633 268 572 161 484 90 c 0
+ 427 44 357 18 280 18 c 0
+ 163 18 85 81 85 197 c 0
+ 85 298 148 408 239 476 c 0
+ 298 520 364 545 433 545 c 0
+ 546 545 633 474 633 364 c 0
+EndSplineSet
+EndChar
+
+StartChar: ocircumflex.sc
+Encoding: 65625 -1 930
+Width: 658
+VWidth: 780
+Flags: W
+HStem: 17 25<243.378 339.523> 519 25<375.861 475.454>
+VStem: 85 119<103.002 268.011> 514 119<293.844 450.068>
+LayerCount: 2
+Fore
+SplineSet
+589 605 m 1
+ 547 605 l 1
+ 474 676 l 1
+ 367 605 l 1
+ 319 605 l 1
+ 451 735 l 1
+ 518 735 l 1
+ 589 605 l 1
+514 426 m 0
+ 514 488 480 519 430 519 c 0
+ 378 519 339 492 297 429 c 0
+ 247 353 204 226 204 137 c 0
+ 204 81 236 42 288 42 c 0
+ 341 42 376 73 417 128 c 0
+ 472 202 514 341 514 426 c 0
+633 363 m 0
+ 633 267 572 160 484 89 c 0
+ 427 43 357 17 280 17 c 0
+ 163 17 85 80 85 196 c 0
+ 85 297 148 407 239 475 c 0
+ 298 519 364 544 433 544 c 0
+ 546 544 633 473 633 363 c 0
+EndSplineSet
+EndChar
+
+StartChar: otilde.sc
+Encoding: 65626 -1 931
+Width: 658
+VWidth: 775
+Flags: W
+HStem: 12 26<242.506 340.531> 514 26<374.821 476.294> 615 58<461.158 568.656> 648 57<350.437 461.541>
+VStem: 85 119<98.8857 263.808> 514 119<289.571 446.042> 575 34<683.045 705>
+LayerCount: 2
+Fore
+SplineSet
+514 422 m 0xcc
+ 514 484 480 514 430 514 c 0
+ 378 514 339 487 297 424 c 0
+ 247 348 204 222 204 133 c 0
+ 204 77 236 38 288 38 c 0
+ 341 38 376 68 417 123 c 0
+ 472 197 514 337 514 422 c 0xcc
+633 359 m 0
+ 633 263 572 155 484 84 c 0
+ 427 38 357 12 280 12 c 0
+ 163 12 85 76 85 192 c 0
+ 85 293 148 403 239 471 c 0
+ 298 515 364 540 433 540 c 0
+ 546 540 633 469 633 359 c 0
+575 705 m 1xda
+ 609 705 l 1xda
+ 591 642 562 615 512 615 c 0xea
+ 497 615 487 617 465 625 c 2
+ 416 642 l 2
+ 405 646 393 648 384 648 c 0
+ 366 648 356 640 345 616 c 1
+ 312 616 l 1
+ 323 670 360 705 407 705 c 0xda
+ 428 705 454 699 488 685 c 0
+ 510 677 522 673 532 673 c 0xea
+ 551 673 563 681 575 705 c 1xda
+EndSplineSet
+EndChar
+
+StartChar: odieresis.sc
+Encoding: 65627 -1 932
+Width: 658
+VWidth: 775
+Flags: W
+HStem: 12 26<242.506 340.531> 514 26<374.821 476.294> 607 98<327.854 415.087 501.854 589.748>
+VStem: 85 119<98.8857 263.808> 318 107<616.686 694.886> 492 108<617.395 694.146> 514 119<289.571 446.042>
+LayerCount: 2
+Fore
+SplineSet
+425 655 m 0xf8
+ 425 629 401 607 371 607 c 0
+ 342 607 318 629 318 655 c 0
+ 318 682 342 705 371 705 c 0
+ 401 705 425 682 425 655 c 0xf8
+600 655 m 0xfc
+ 600 629 575 607 545 607 c 0
+ 516 607 492 629 492 655 c 0
+ 492 682 516 705 545 705 c 0
+ 575 705 600 682 600 655 c 0xfc
+514 422 m 0xfa
+ 514 484 480 514 430 514 c 0
+ 378 514 339 487 297 424 c 0
+ 247 348 204 222 204 133 c 0
+ 204 77 236 38 288 38 c 0
+ 341 38 376 68 417 123 c 0
+ 472 197 514 337 514 422 c 0xfa
+633 359 m 0
+ 633 263 572 155 484 84 c 0
+ 427 38 357 12 280 12 c 0
+ 163 12 85 76 85 192 c 0
+ 85 293 148 403 239 471 c 0
+ 298 515 364 540 433 540 c 0
+ 546 540 633 469 633 359 c 0
+EndSplineSet
+EndChar
+
+StartChar: ugrave.sc
+Encoding: 65628 -1 933
+Width: 665
+VWidth: 781
+Flags: W
+HStem: 18 42<264.355 422.503> 514 19<151 177 359.889 407 514 561.051 651.053 684>
+VStem: 127 113<81.838 233.663>
+LayerCount: 2
+Fore
+SplineSet
+548 606 m 1
+ 509 606 l 1
+ 401 672 l 2
+ 383 683 373 696 373 708 c 0
+ 373 726 390 741 410 741 c 0
+ 425 741 442 735 457 717 c 2
+ 548 606 l 1
+684 533 m 1
+ 684 514 l 1
+ 639 506 632 504 601 404 c 2
+ 547 228 l 2
+ 523 148 495 88 447 53 c 0
+ 415 30 372 18 310 18 c 0
+ 202 18 127 60 127 140 c 0
+ 127 170 137 216 156 282 c 2
+ 199 426 l 2
+ 208 454 211 476 211 485 c 0
+ 211 501 203 510 177 512 c 2
+ 151 514 l 1
+ 151 533 l 1
+ 407 533 l 1
+ 407 514 l 1
+ 356 512 343 501 330 457 c 2
+ 263 237 l 2
+ 241 167 240 156 240 135 c 0
+ 240 81 278 60 341 60 c 0
+ 386 60 418 73 442 95 c 0
+ 477 128 497 181 516 243 c 2
+ 563 399 l 2
+ 573 432 579 458 579 471 c 0
+ 579 498 561 514 514 514 c 1
+ 514 533 l 1
+ 684 533 l 1
+EndSplineSet
+EndChar
+
+StartChar: uacute.sc
+Encoding: 65629 -1 934
+Width: 665
+VWidth: 781
+Flags: W
+HStem: 18 42<264.355 422.503> 514 19<151 177 359.889 407 514 561.051 651.053 684>
+VStem: 127 113<81.838 233.663>
+LayerCount: 2
+Fore
+SplineSet
+363 606 m 1
+ 463 704 l 2
+ 493 732 507 741 522 741 c 0
+ 544 741 561 726 561 706 c 0
+ 561 692 553 684 529 671 c 2
+ 404 606 l 1
+ 363 606 l 1
+684 533 m 1
+ 684 514 l 1
+ 639 506 632 504 601 404 c 2
+ 547 228 l 2
+ 523 148 495 88 447 53 c 0
+ 415 30 372 18 310 18 c 0
+ 202 18 127 60 127 140 c 0
+ 127 170 137 216 156 282 c 2
+ 199 426 l 2
+ 208 454 211 476 211 485 c 0
+ 211 501 203 510 177 512 c 2
+ 151 514 l 1
+ 151 533 l 1
+ 407 533 l 1
+ 407 514 l 1
+ 356 512 343 501 330 457 c 2
+ 263 237 l 2
+ 241 167 240 156 240 135 c 0
+ 240 81 278 60 341 60 c 0
+ 386 60 418 73 442 95 c 0
+ 477 128 497 181 516 243 c 2
+ 563 399 l 2
+ 573 432 579 458 579 471 c 0
+ 579 498 561 514 514 514 c 1
+ 514 533 l 1
+ 684 533 l 1
+EndSplineSet
+EndChar
+
+StartChar: ucircumflex.sc
+Encoding: 65630 -1 935
+Width: 665
+VWidth: 780
+Flags: W
+HStem: 17 42<265.111 422.503> 513 19<151 177 359.889 407 514 561.051 651.053 684>
+VStem: 127 113<81.1346 232.664>
+LayerCount: 2
+Fore
+SplineSet
+596 605 m 1
+ 555 605 l 1
+ 482 676 l 1
+ 374 605 l 1
+ 327 605 l 1
+ 459 735 l 1
+ 526 735 l 1
+ 596 605 l 1
+684 532 m 1
+ 684 513 l 1
+ 639 505 632 503 601 403 c 2
+ 547 227 l 2
+ 523 147 495 87 447 52 c 0
+ 415 29 372 17 310 17 c 0
+ 202 17 127 59 127 139 c 0
+ 127 169 137 215 156 281 c 2
+ 199 425 l 2
+ 208 453 211 475 211 484 c 0
+ 211 500 203 509 177 511 c 2
+ 151 513 l 1
+ 151 532 l 1
+ 407 532 l 1
+ 407 513 l 1
+ 356 511 343 500 330 456 c 2
+ 263 236 l 2
+ 241 166 240 156 240 135 c 0
+ 240 81 278 59 341 59 c 0
+ 386 59 418 72 442 94 c 0
+ 477 127 497 180 516 242 c 2
+ 563 399 l 2
+ 573 432 579 458 579 471 c 0
+ 579 498 561 513 514 513 c 1
+ 514 532 l 1
+ 684 532 l 1
+EndSplineSet
+EndChar
+
+StartChar: udieresis.sc
+Encoding: 65631 -1 936
+Width: 665
+VWidth: 775
+Flags: W
+HStem: 12 42<265.111 420.95> 509 19<151 177 359.889 407 514 561.051 651.053 684> 607 98<333.515 420.087 507.854 595.087>
+VStem: 127 113<76.5382 227.751> 324 106<616.686 694.886> 498 107<616.686 694.886>
+LayerCount: 2
+Fore
+SplineSet
+430 655 m 0
+ 430 629 406 607 376 607 c 0
+ 347 607 324 629 324 655 c 0
+ 324 682 347 705 376 705 c 0
+ 406 705 430 682 430 655 c 0
+605 655 m 0
+ 605 629 581 607 551 607 c 0
+ 522 607 498 629 498 655 c 0
+ 498 682 522 705 551 705 c 0
+ 581 705 605 682 605 655 c 0
+684 528 m 1
+ 684 509 l 1
+ 639 501 632 499 601 399 c 2
+ 547 223 l 2
+ 523 143 495 83 447 48 c 0
+ 415 25 372 12 310 12 c 0
+ 202 12 127 55 127 135 c 0
+ 127 165 137 210 156 276 c 2
+ 199 421 l 2
+ 208 449 211 471 211 480 c 0
+ 211 496 203 505 177 507 c 2
+ 151 509 l 1
+ 151 528 l 1
+ 407 528 l 1
+ 407 509 l 1
+ 356 507 343 496 330 452 c 2
+ 263 231 l 2
+ 241 161 240 151 240 130 c 0
+ 240 76 278 54 341 54 c 0
+ 386 54 418 68 442 90 c 0
+ 477 123 497 175 516 237 c 2
+ 563 394 l 2
+ 573 427 579 453 579 466 c 0
+ 579 493 561 509 514 509 c 1
+ 514 528 l 1
+ 684 528 l 1
 EndSplineSet
 EndChar
 EndChars
