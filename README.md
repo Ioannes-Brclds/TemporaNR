@@ -1,0 +1,1 @@
+TemporaNR = The modified XITS combined with IFAO-Grec Unicode font with the addition of TironianEt (U+204A), modifying part of kerning, part of oldstyle figures and somes philological glyphs, produces "TemporaNR", a Times-like font for textual criticism for using in LaTeX and text processors.
