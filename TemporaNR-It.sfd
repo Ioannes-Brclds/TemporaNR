@@ -6,23 +6,23 @@ Weight: Regular
 Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc. Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.  Portions copyright (c) 2009-2019 by Khaled Hosny. Portions copyright (c) by Daniel Benjamin Miller. All rights reserved.\n-------------------------------------------------------------------------------------------\nThe designers of IFAO-Grec Unicode are Jean-Luc Fournet and Ralph Hancock, with help of Adam Bulow-Jacobsen in various ways.
 Version: 1.302
 ItalicAngle: -16.34
-UnderlinePosition: -46
+UnderlinePosition: -44
 UnderlineWidth: 49
-Ascent: 775
-Descent: 225
+Ascent: 750
+Descent: 250
 InvalidEm: 0
 sfntRevision: 0x00014d4f
 LayerCount: 2
 Layer: 0 0 "Atr+AOEA-s" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 149 -1843968052 11313305]
+XUID: [1021 974 -820899420 14605539]
 StyleMap: 0x0001
 FSType: 0
 OS2Version: 4
-OS2_WeightWidthSlopeOnly: 0
+OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710416
-ModificationTime: 1760313495
+ModificationTime: 1760648231
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -192,7 +192,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1113948 29 11
+WinInfo: 54 27 9
 BeginPrivate: 5
 BlueValues 15 [-18 0 653 667]
 BlueShift 1 0
@@ -1776,7 +1776,7 @@ StartChar: Q
 Encoding: 81 81 50
 Width: 605
 GlyphClass: 2
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -168174,8 +168174,8 @@ StartChar: o.sc
 Encoding: 1114205 -1 3961
 Width: 553
 GlyphClass: 2
-Flags: HMW
-HStem: -8 28<177 229> 466 28<315 366>
+Flags: MW
+HStem: -8 28<178 228.5> 466 28<316 366>
 VStem: 23 98<244 244> 423 98
 LayerCount: 2
 Fore
@@ -168245,9 +168245,8 @@ EndChar
 StartChar: q.sc
 Encoding: 1114207 -1 3963
 Width: 480
-VWidth: 747
 GlyphClass: 2
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet

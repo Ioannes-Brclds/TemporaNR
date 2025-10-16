@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
 FontName: TemporaNR-BoldItalic
 FullName: Tempora NR Bold Italic
-FamilyName: Tempora NR
+FamilyName: TemporaNR
 Weight: Bold
 Copyright: Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc. Portions copyright (c) 2014, 2015 by (URW)++ Design & Development.  Portions copyright (c) 2009-2019 by Khaled Hosny. Portions copyright (c) by Daniel Benjamin Miller. All rights reserved.\n-------------------------------------------------------------------------------------------\nThe designers of IFAO-Grec Unicode are Jean-Luc Fournet and Ralph Hancock, with help of Adam Bulow-Jacobsen in various ways.
 Version: 1.302
@@ -15,14 +15,14 @@ sfntRevision: 0x00014d4f
 LayerCount: 2
 Layer: 0 0 "Atr+AOEA-s" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 149 -1843968052 3356702]
+XUID: [1021 974 -820899420 9676807]
 StyleMap: 0x0021
 FSType: 0
 OS2Version: 4
-OS2_WeightWidthSlopeOnly: 0
+OS2_WeightWidthSlopeOnly: 1
 OS2_UseTypoMetrics: 1
 CreationTime: 1227710455
-ModificationTime: 1760313527
+ModificationTime: 1760648271
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -57,26 +57,26 @@ OS2XHeight: 449
 OS2Vendor: 'ALIF'
 OS2CodePages: 0000009f.cf430000
 OS2UnicodeRanges: a00002bf.40000d4e.00000000.00000000
-Lookup: 1 0 0 "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" { "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ("sc") } ['smcp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CRT ' 'NLD ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 0" { "'locl' Localized Forms in Latin lookup 0 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 1" { "'locl' Localized Forms in Latin lookup 1 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
-Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 2" { "'locl' Localized Forms in Latin lookup 2 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
-Lookup: 1 0 0 "'sups' Superscript lookup 3" { "'sups' Superscript lookup 3 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 4" { "'onum' Oldstyle Figures lookup 4 subtable" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures lookup 5" { "'liga' Standard Ligatures lookup 5 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 6" { "'liga' Standard Ligatures in Latin lookup 6 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
-Lookup: 1 0 0 "'ss11' Style Set 11 lookup 7" { "'ss11' Style Set 11 lookup 7 subtable"  } ['ss11' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals in Latin lookup 0" { "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable"  } ['smcp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CRT ' 'NLD ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 1" { "'locl' Localized Forms in Latin lookup 1 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 2" { "'locl' Localized Forms in Latin lookup 2 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
+Lookup: 1 0 0 "'locl' Localized Forms in Latin lookup 3" { "'locl' Localized Forms in Latin lookup 3 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 4" { "'sups' Superscript lookup 4 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 5" { "'onum' Oldstyle Figures lookup 5 subtable" ("oldstyle") } ['onum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures lookup 6" { "'liga' Standard Ligatures lookup 6 subtable"  } ['liga' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 7" { "'liga' Standard Ligatures in Latin lookup 7 subtable"  } ['liga' ('latn' <'NLD ' > ) ]
+Lookup: 1 0 0 "'ss11' Style Set 11 lookup 8" { "'ss11' Style Set 11 lookup 8 subtable"  } ['ss11' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'TRK ' 'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Bold Italic" "" "" "" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "https://github.com/alif-type/xits" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html"
+LangName: 1033 "" "" "Bold Italic" "FontForge 2.0 : Tempora NR Bold Italic : 12-10-2025" "" "Version 1.302" "" "STIX Fonts(TM) is a trademark of The Institute of Electrical and Electronics Engineers, Inc." "" "MicroPress Inc., with final additions and corrections provided by Coen Hoffman, Elsevier (retired)" "Arie de Ruiter, who in 1995 was Head of Information Technology Development at Elsevier Science, made a proposal to the STI Pub group, an informal group of publishers consisting of representatives from the American Chemical Society (ACS), American Institute of Physics (AIP), American Mathematical Society (AMS), American Physical Society (APS), Elsevier, and Institute of Electrical and Electronics Engineers (IEEE). De Ruiter encouraged the members to consider development of a series of Web fonts, which he proposed should be called the Scientific and Technical Information eXchange, or STIX, Fonts. All STI Pub member organizations enthusiastically endorsed this proposal, and the STI Pub group agreed to embark on what has become a twelve-year project. The goal of the project was to identify all alphabetic, symbolic, and other special characters used in any facet of scientific publishing and to create a set of Unicode-based fonts that would be distributed free to every scientist, student, and other interested party worldwide. The fonts would be consistent with the emerging Unicode standard, and would permit universal representation of every character. With the release of the STIX fonts, de Ruiter's vision has been realized." "https://github.com/alif-type/xits" "http://www.micropress-inc.com" "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id+AD0A-nrsi&id+AD0A-OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (+ACIA-Modified Version+ACIA) will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The +ACIA-renaming+ACIA restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set." "http://www.stixfonts.org/user_license.html"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65337 29 11
+WinInfo: 54 27 9
 BeginPrivate: 7
 BlueValues 15 [-18 0 669 685]
 BlueShift 1 6
@@ -596,8 +596,8 @@ SplineSet
  215 666 272 683 327 683 c 0
  423 683 477 588 477 442 c 0
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" zero.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" zero.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" zero.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" zero.sups
 EndChar
 
 StartChar: one
@@ -624,8 +624,8 @@ SplineSet
  148 631 l 1
  263 646 328 661 419 683 c 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" one.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" one.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" one.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" one.sups
 EndChar
 
 StartChar: two
@@ -654,8 +654,8 @@ SplineSet
  312 545 287 593 220 593 c 0
  168 593 127 568 86 507 c 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" two.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" two.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" two.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" two.sups
 EndChar
 
 StartChar: three
@@ -687,8 +687,8 @@ SplineSet
  321 577 296 612 234 612 c 0
  187 612 158 594 117 537 c 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" three.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" three.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" three.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" three.sups
 EndChar
 
 StartChar: four
@@ -717,8 +717,8 @@ SplineSet
  440 683 l 1
  503 683 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" four.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" four.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" four.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" four.sups
 EndChar
 
 StartChar: five
@@ -747,8 +747,8 @@ SplineSet
  204 669 l 1
  486 669 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" five.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" five.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" five.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" five.sups
 EndChar
 
 StartChar: six
@@ -777,8 +777,8 @@ SplineSet
  23 327 88 456 199 549 c 0
  291 626 357 651 503 679 c 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" six.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" six.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" six.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" six.sups
 EndChar
 
 StartChar: seven
@@ -800,8 +800,8 @@ SplineSet
  145 669 l 1
  525 669 l 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" seven.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" seven.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" seven.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" seven.sups
 EndChar
 
 StartChar: eight
@@ -837,8 +837,8 @@ SplineSet
  76 -13 3 54 3 153 c 0
  3 240 63 296 183 341 c 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" eight.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" eight.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" eight.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" eight.sups
 EndChar
 
 StartChar: nine
@@ -868,8 +868,8 @@ SplineSet
  475 330 394 184 263 92 c 0
  186 37 125 14 -6 -10 c 1
 EndSplineSet
-Substitution2: "'onum' Oldstyle Figures lookup 4 subtable" nine.onum
-Substitution2: "'sups' Superscript lookup 3 subtable" nine.sups
+Substitution2: "'onum' Oldstyle Figures lookup 5 subtable" nine.onum
+Substitution2: "'sups' Superscript lookup 4 subtable" nine.sups
 EndChar
 
 StartChar: colon
@@ -1649,7 +1649,7 @@ StartChar: Q
 Encoding: 81 81 50
 Width: 716
 GlyphClass: 2
-Flags: HMW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -2167,7 +2167,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 681 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" a.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" a.sc
 EndChar
 
 StartChar: b
@@ -2202,7 +2202,7 @@ SplineSet
  163 679 214 686 284 699 c 1
 EndSplineSet
 Kerns2: 90 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" b.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" b.sc
 EndChar
 
 StartChar: c
@@ -2232,7 +2232,7 @@ SplineSet
  239 51 270 75 318 142 c 1
 EndSplineSet
 Kerns2: 76 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" c.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" c.sc
 EndChar
 
 StartChar: d
@@ -2272,7 +2272,7 @@ SplineSet
  308 670 l 1
  408 678 457 685 517 699 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" d.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" d.sc
 EndChar
 
 StartChar: e
@@ -2302,7 +2302,7 @@ SplineSet
  242 51 271 74 317 143 c 1
 EndSplineSet
 Kerns2: 681 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" e.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" e.sc
 EndChar
 
 StartChar: f
@@ -2343,7 +2343,7 @@ SplineSet
  47 449 l 1
 EndSplineSet
 Kerns2: 681 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 275 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 184 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 180 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 49 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" f.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" f.sc
 EndChar
 
 StartChar: g
@@ -2392,7 +2392,7 @@ SplineSet
  477 373 l 1
 EndSplineSet
 Kerns2: 182 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 171 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" g.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" g.sc
 EndChar
 
 StartChar: h
@@ -2431,7 +2431,7 @@ SplineSet
  414 59 433 80 476 142 c 1x60
 EndSplineSet
 Kerns2: 681 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" h.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" h.sc
 EndChar
 
 StartChar: i
@@ -2467,10 +2467,10 @@ SplineSet
  231 684 262 653 262 616 c 0
 EndSplineSet
 Kerns2: 53 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" i.sc
+Substitution2: "'locl' Localized Forms in Latin lookup 3 subtable" i.TRK
 Substitution2: "'locl' Localized Forms in Latin lookup 2 subtable" i.TRK
 Substitution2: "'locl' Localized Forms in Latin lookup 1 subtable" i.TRK
-Substitution2: "'locl' Localized Forms in Latin lookup 0 subtable" i.TRK
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" i.sc
 EndChar
 
 StartChar: j
@@ -2504,7 +2504,7 @@ SplineSet
  144 654 175 685 210 685 c 0
  248 685 279 654 279 617 c 0
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" j.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" j.sc
 EndChar
 
 StartChar: k
@@ -2541,7 +2541,7 @@ SplineSet
  483 449 l 1x40
 EndSplineSet
 Kerns2: 188 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 29 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" k.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" k.sc
 EndChar
 
 StartChar: l
@@ -2570,7 +2570,7 @@ SplineSet
  155 676 204 683 290 699 c 1
 EndSplineSet
 Kerns2: 90 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" l.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" l.sc
 EndChar
 
 StartChar: m
@@ -2621,7 +2621,7 @@ SplineSet
  693 124 697 130 701 135 c 1x60
 EndSplineSet
 Kerns2: 90 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" m.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" m.sc
 EndChar
 
 StartChar: n
@@ -2661,7 +2661,7 @@ SplineSet
  418 59 432 73 472 135 c 1x60
 EndSplineSet
 Kerns2: 681 -23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -43 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" n.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" n.sc
 EndChar
 
 StartChar: o
@@ -2690,7 +2690,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 681 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -47 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" o.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" o.sc
 EndChar
 
 StartChar: p
@@ -2731,7 +2731,7 @@ SplineSet
  177 347 l 1
 EndSplineSet
 Kerns2: 90 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" p.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" p.sc
 EndChar
 
 StartChar: q
@@ -2770,7 +2770,7 @@ SplineSet
  471 449 l 1
 EndSplineSet
 Kerns2: 86 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" q.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" q.sc
 EndChar
 
 StartChar: r
@@ -2799,7 +2799,7 @@ SplineSet
  160 253 l 1
 EndSplineSet
 Kerns2: 681 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 275 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 184 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 180 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 167 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 91 11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 23 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 86 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 83 18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 81 19 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 79 8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 78 13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 76 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 73 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -50 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -46 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" r.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" r.sc
 EndChar
 
 StartChar: s
@@ -2837,7 +2837,7 @@ SplineSet
  333 461 l 1
 EndSplineSet
 Kerns2: 681 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" s.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" s.sc
 EndChar
 
 StartChar: t
@@ -2869,7 +2869,7 @@ SplineSet
  281 407 l 1
 EndSplineSet
 Kerns2: 681 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -1 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" t.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" t.sc
 EndChar
 
 StartChar: u
@@ -2907,14 +2907,14 @@ SplineSet
  416 59 436 79 471 133 c 1
 EndSplineSet
 Kerns2: 681 -24 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" u.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" u.sc
 EndChar
 
 StartChar: v
 Encoding: 118 118 87
 Width: 444
 GlyphClass: 2
-Flags: HMW
+Flags: MW
 HStem: -13 20 442 20<325 359>
 LayerCount: 2
 Fore
@@ -2928,15 +2928,15 @@ SplineSet
  290 373 283 389 283 406 c 0
  283 437 310 462 340 462 c 0
  378 462 401 430 401 395 c 0
- 401 353 380.915162021 299.058417485 341 241 c 0
- 286 161 250 114 138 -14 c 5
+ 401 353 380.915039062 299.05859375 341 241 c 0
+ 286 161 250 114 138 -14 c 1
  85 -13 l 1
  90 78 90 160 90 164 c 0
  90 272 81 357 65 389 c 0
  58 402 46 408 15 408 c 1
 EndSplineSet
 Kerns2: 184 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -13 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" v.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" v.sc
 EndChar
 
 StartChar: w
@@ -2973,7 +2973,7 @@ SplineSet
  387 462 l 1
 EndSplineSet
 Kerns2: 184 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -21 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 -3 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -35 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" w.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" w.sc
 EndChar
 
 StartChar: x
@@ -3012,7 +3012,7 @@ SplineSet
  41 438 l 1x60
 EndSplineSet
 Kerns2: 169 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -12 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -9 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" x.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" x.sc
 EndChar
 
 StartChar: y
@@ -3048,16 +3048,16 @@ SplineSet
  239 110 l 1
 EndSplineSet
 Kerns2: 184 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 182 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -6 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 77 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -11 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -7 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 14 4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" y.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" y.sc
 EndChar
 
 StartChar: z
 Encoding: 122 122 91
 Width: 406
 GlyphClass: 2
-Flags: W
-HStem: 0 74<142 288.372> 369 70<107.594 271>
-VStem: 329 26<129.2 153>
+Flags: MW
+HStem: 0 74<142 153 153 187.5 142 310> 369 70<210.5 271>
+VStem: 329 26<153 153>
 LayerCount: 2
 Fore
 SplineSet
@@ -3071,13 +3071,13 @@ SplineSet
  86 439 l 1
  406 439 l 1
  401 413 l 1
- 142 74 l 5
+ 142 74 l 1
  153 74 l 2
- 222 74 268.604988461 67.694394157 304 110 c 0
- 320.440818138 129.650757032 315 123 329 153 c 1
+ 222 74 268.60546875 67.6943359375 304 110 c 0
+ 320.440429688 129.650390625 315 123 329 153 c 1
  355 153 l 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" z.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" z.sc
 EndChar
 
 StartChar: braceleft
@@ -5629,7 +5629,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" agrave.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" agrave.sc
 EndChar
 
 StartChar: aacute
@@ -5674,7 +5674,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" aacute.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" aacute.sc
 EndChar
 
 StartChar: acircumflex
@@ -5719,7 +5719,7 @@ SplineSet
  350 63 354 57 362 57 c 0
  378 57 394 72 435 127 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" acircumflex.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" acircumflex.sc
 EndChar
 
 StartChar: atilde
@@ -5768,7 +5768,7 @@ SplineSet
  378 618 393 613 405 613 c 0x30
  428 613 441 623 456 655 c 1x28
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" atilde.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" atilde.sc
 EndChar
 
 StartChar: adieresis
@@ -5817,7 +5817,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" adieresis.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" adieresis.sc
 EndChar
 
 StartChar: aring
@@ -5866,7 +5866,7 @@ SplineSet
  378 57 394 72 435 127 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" aring.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" aring.sc
 EndChar
 
 StartChar: ae
@@ -5911,7 +5911,7 @@ SplineSet
  473 459 l 1
 EndSplineSet
 Kerns2: 90 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -5 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ae.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ae.sc
 EndChar
 
 StartChar: ccedilla
@@ -5954,7 +5954,7 @@ SplineSet
  64 -100 56 -101 44 -104 c 1
  31 -92 l 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ccedilla.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ccedilla.sc
 EndChar
 
 StartChar: egrave
@@ -5990,7 +5990,7 @@ SplineSet
  135 79 157 51 199 51 c 0
  242 51 271 74 317 143 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" egrave.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" egrave.sc
 EndChar
 
 StartChar: eacute
@@ -6027,7 +6027,7 @@ SplineSet
  242 51 271 74 317 143 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" eacute.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" eacute.sc
 EndChar
 
 StartChar: ecircumflex
@@ -6065,7 +6065,7 @@ SplineSet
  242 51 271 74 317 143 c 1
 EndSplineSet
 Kerns2: 90 -2 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -4 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ecircumflex.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ecircumflex.sc
 EndChar
 
 StartChar: edieresis
@@ -6104,7 +6104,7 @@ SplineSet
  135 79 157 51 199 51 c 0
  242 51 271 74 317 143 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" edieresis.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" edieresis.sc
 EndChar
 
 StartChar: igrave
@@ -6140,7 +6140,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" igrave.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" igrave.sc
 EndChar
 
 StartChar: iacute
@@ -6176,7 +6176,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" iacute.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" iacute.sc
 EndChar
 
 StartChar: icircumflex
@@ -6213,7 +6213,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" icircumflex.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" icircumflex.sc
 EndChar
 
 StartChar: idieresis
@@ -6253,7 +6253,7 @@ SplineSet
  153 61 175 84 202 122 c 2
  216 142 l 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" idieresis.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" idieresis.sc
 EndChar
 
 StartChar: eth
@@ -6339,7 +6339,7 @@ SplineSet
  388 618 403 613 415 613 c 0x30
  438 613 451 623 466 655 c 1x28
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ntilde.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ntilde.sc
 EndChar
 
 StartChar: ograve
@@ -6375,7 +6375,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ograve.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ograve.sc
 EndChar
 
 StartChar: oacute
@@ -6411,7 +6411,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" oacute.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" oacute.sc
 EndChar
 
 StartChar: ocircumflex
@@ -6448,7 +6448,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 85 3 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ocircumflex.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ocircumflex.sc
 EndChar
 
 StartChar: otilde
@@ -6488,7 +6488,7 @@ SplineSet
  366 618 381 613 393 613 c 0xc0
  416 613 429 623 444 655 c 1xa0
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" otilde.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" otilde.sc
 EndChar
 
 StartChar: odieresis
@@ -6528,7 +6528,7 @@ SplineSet
  148 435 212 462 280 462 c 2
 EndSplineSet
 Kerns2: 90 -16 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 89 -18 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 88 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -14 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" odieresis.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" odieresis.sc
 EndChar
 
 StartChar: divide
@@ -6638,7 +6638,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ugrave.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ugrave.sc
 EndChar
 
 StartChar: uacute
@@ -6682,7 +6682,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" uacute.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" uacute.sc
 EndChar
 
 StartChar: ucircumflex
@@ -6727,7 +6727,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" ucircumflex.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ucircumflex.sc
 EndChar
 
 StartChar: udieresis
@@ -6775,7 +6775,7 @@ SplineSet
  385 70 388 59 399 59 c 0
  416 59 436 79 471 133 c 1
 EndSplineSet
-Substitution2: "'smcp' Min+APoA-sculas a may+APoA-sculas peque+APEA-as en Latin" udieresis.sc
+Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" udieresis.sc
 EndChar
 
 StartChar: yacute
@@ -9057,7 +9057,7 @@ SplineSet
  -32 25 l 1
  17 31 32 36 51 107 c 2
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 6 subtable" I J
+Ligature2: "'liga' Standard Ligatures in Latin lookup 7 subtable" I J
 EndChar
 
 StartChar: uni0133
@@ -9112,7 +9112,7 @@ SplineSet
  156 550 128 580 128 619 c 0
  128 653 159 684 193 684 c 0xe6
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures in Latin lookup 6 subtable" i j
+Ligature2: "'liga' Standard Ligatures in Latin lookup 7 subtable" i j
 EndChar
 
 StartChar: uni0134
@@ -31385,7 +31385,7 @@ SplineSet
  310 669 276 613 252 515 c 2
  236 449 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f f
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f f
 EndChar
 
 StartChar: fi
@@ -31434,7 +31434,7 @@ SplineSet
  399 69 407 61 414 61 c 0
  430 61 453 84 492 140 c 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f i
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f i
 EndChar
 
 StartChar: fl
@@ -31483,7 +31483,7 @@ SplineSet
  376 704 403 704 454 689 c 1
  553 701 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f l
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f l
 EndChar
 
 StartChar: ffi
@@ -31553,7 +31553,7 @@ SplineSet
  699 69 707 61 714 61 c 0
  730 61 753 84 792 140 c 1xef80
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f f i
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f f i
 EndChar
 
 StartChar: ffl
@@ -31623,7 +31623,7 @@ SplineSet
  674 704 701 704 752 689 c 1
  851 701 l 1
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f f l
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f f l
 EndChar
 
 StartChar: f_j
@@ -31674,7 +31674,7 @@ SplineSet
  17 407 l 1
  27 449 l 1x7e
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f j
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f j
 EndChar
 
 StartChar: zero.onum
@@ -31702,7 +31702,7 @@ SplineSet
  220 451 278 473 344 473 c 0
  516 473 554 370 554 280 c 0
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" zero.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" zero.onum.ss11
 EndChar
 
 StartChar: one.onum
@@ -31729,7 +31729,7 @@ SplineSet
  179 421 l 1
  294 436 359 451 450 473 c 1
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" one.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" one.onum.ss11
 EndChar
 
 StartChar: two.onum
@@ -31760,7 +31760,7 @@ SplineSet
  430 272 271 176 251 164 c 2
  164 111 l 1
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" two.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" two.onum.ss11
 EndChar
 
 StartChar: three.onum
@@ -31791,7 +31791,7 @@ SplineSet
  302 399 263 432 220 432 c 0
  170 432 126 399 103 357 c 1xe8
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" three.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" three.onum.ss11
 EndChar
 
 StartChar: four.onum
@@ -31821,7 +31821,7 @@ SplineSet
  4 96 l 1
  429 513 l 1
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" four.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" four.onum.ss11
 EndChar
 
 StartChar: five.onum
@@ -31849,7 +31849,7 @@ SplineSet
  294 134 198 176 63 192 c 1
  194 486 l 1
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" five.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" five.onum.ss11
 EndChar
 
 StartChar: six.onum
@@ -31878,7 +31878,7 @@ SplineSet
  238 16 270 64 295 142 c 0
  306 178 330 272 330 309 c 0
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" six.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" six.onum.ss11
 EndChar
 
 StartChar: seven.onum
@@ -31901,7 +31901,7 @@ SplineSet
  49 302 l 1
  135 486 l 1
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" seven.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" seven.onum.ss11
 EndChar
 
 StartChar: eight.onum
@@ -31934,7 +31934,7 @@ SplineSet
  295 20 326 80 326 145 c 0xf8
  326 231 269 276 229 320 c 1
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" eight.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" eight.onum.ss11
 EndChar
 
 StartChar: nine.onum
@@ -31962,7 +31962,7 @@ SplineSet
  255 106 268 115 272 123 c 0
  293 160 348 294 348 399 c 0
 EndSplineSet
-Substitution2: "'ss11' Style Set 11 lookup 7 subtable" nine.onum.ss11
+Substitution2: "'ss11' Style Set 11 lookup 8 subtable" nine.onum.ss11
 EndChar
 
 StartChar: i.TRK
@@ -32347,7 +32347,7 @@ SplineSet
  670 396 659 407 635 407 c 2
  511 407 l 1xef80
 EndSplineSet
-Ligature2: "'liga' Standard Ligatures lookup 5 subtable" f f j
+Ligature2: "'liga' Standard Ligatures lookup 6 subtable" f f j
 EndChar
 
 StartChar: one.sinf
@@ -32912,9 +32912,9 @@ EndChar
 StartChar: a.sc
 Encoding: 65580 -1 885
 Width: 625
-VWidth: 746
-Flags: W
-HStem: -4 19<-37 -4.46826 81.75 125 258 285 495.847 519> 144 29<160 321>
+GlyphClass: 2
+Flags: MW
+HStem: -4 19<-37 -37 -37 125 -43 -37 508 519> 144 29<160 321 160 324 139 321>
 LayerCount: 2
 Fore
 SplineSet
@@ -32947,9 +32947,9 @@ EndChar
 StartChar: b.sc
 Encoding: 65581 -1 886
 Width: 605
-VWidth: 744
-Flags: W
-HStem: -6 24<-7 60.4307 217 305.543> 252 22<282 356.61> 479 23<149 195.625 351.754 429.221>
+GlyphClass: 2
+Flags: MW
+HStem: -6 24<236 259> 252 22<273 333.5 282 295> 479 23<375.5 411 411 420>
 LayerCount: 2
 Fore
 SplineSet
@@ -32982,10 +32982,10 @@ EndChar
 StartChar: c.sc
 Encoding: 65582 -1 887
 Width: 605
-VWidth: 744
-Flags: W
-HStem: -20 36<222.322 374.562> 488 24<370.631 480.411>
-VStem: 625 22<497.785 510>
+GlyphClass: 2
+Flags: MW
+HStem: -20 36<266 302.5> 488 24<380.5 441 337 451.5>
+VStem: 625 22<510 510>
 LayerCount: 2
 Fore
 SplineSet
@@ -33013,41 +33013,41 @@ EndChar
 StartChar: d.sc
 Encoding: 65583 -1 888
 Width: 656
-VWidth: 744
-Flags: W
-HStem: -6 27<215.236 324.645> -6 19<-2 44.9946> 476 26<347.644 452.648> 483 19<154 190.592>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-2 -2 -2 247 -8 -2> -6 27<232.5 247> 476 26<375 411 411 422> 483 19<148 411>
 LayerCount: 2
 Fore
 SplineSet
-335 443 m 2xa0
+335 443 m 2x60
  218 70 l 2
  206 36 214 21 251 21 c 0
  306 21 352 39 393 75 c 0
  430 109 463 176 484 242 c 0
  505 306 513 362 501 400 c 0
  485 450 453 476 391 476 c 0
- 359 476 341 464 335 443 c 2xa0
-154 502 m 1x50
+ 359 476 341 464 335 443 c 2x60
+154 502 m 1x90
  411 502 l 2
  599 502 682 407 634 253 c 0
  610 176 550 102 476 55 c 0
- 413 15 331 -6 247 -6 c 2xa0
+ 413 15 331 -6 247 -6 c 2x60
  -8 -6 l 1
  -2 13 l 1
  46 15 73 32 85 68 c 2
  199 432 l 2
  211 466 201 479 148 483 c 1
- 154 502 l 1x50
+ 154 502 l 1x90
 EndSplineSet
 EndChar
 
 StartChar: e.sc
 Encoding: 65584 -1 889
 Width: 607
-VWidth: 744
-Flags: W
-HStem: -6 24<-4 62.0628 219.005 370.669> 241 26<283 346.868> 476 26<352.479 511.021> 483 19<152 193.513>
-VStem: 371 22<125 146.864> 452 22<356.136 378> 559 21<351 373.021>
+GlyphClass: 2
+Flags: MW
+HStem: -6 24<247 306 247 472> 241 26<283 283 283 319> 476 26<380.5 469> 483 19<146 628>
+VStem: 371 22<125 125> 452 22<378 378> 559 21<351 351>
 LayerCount: 2
 Fore
 SplineSet
@@ -33081,10 +33081,10 @@ EndChar
 StartChar: f.sc
 Encoding: 65585 -1 890
 Width: 586
-VWidth: 744
-Flags: W
-HStem: -6 19<21 72.489 254.221 312> 241 26<307 364.36> 476 26<377.238 532.856> 483 19<177 219.395>
-VStem: 389 21<125 146.864> 470 21<359.143 378> 576 20<350 372.167>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<21 21 21 312 15 21> 241 26<298 348> 476 26<411 468.5> 483 19<171 644>
+VStem: 389 21<125 125> 470 21<378 378> 576 20<350 350>
 LayerCount: 2
 Fore
 SplineSet
@@ -33116,10 +33116,10 @@ EndChar
 StartChar: g.sc
 Encoding: 65586 -1 891
 Width: 650
-VWidth: 744
-Flags: W
-HStem: -20 24<216.961 335.263> 190 19<336 386.492 570.102 614> 488 24<356.769 471.319>
-VStem: 614 22<497.785 510>
+GlyphClass: 2
+Flags: MW
+HStem: -20 24<247 292> 190 19<330 620 614 614> 488 24<365 432>
+VStem: 614 22<510 510>
 LayerCount: 2
 Fore
 SplineSet
@@ -33152,9 +33152,9 @@ EndChar
 StartChar: h.sc
 Encoding: 65587 -1 892
 Width: 650
-VWidth: 744
-Flags: W
-HStem: -6 19<-50 -0.20919 181.385 221 279 331.002 516.039 554> 239 35<238 425> 483 19<106 145.225 324.735 377 435 476.111 659.762 710>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-50 -50 -50 221 -56 -50> 239 35<238 425 226 437> 483 19<100 383 377 377 710 710>
 LayerCount: 2
 Fore
 SplineSet
@@ -33193,9 +33193,9 @@ EndChar
 StartChar: i.sc
 Encoding: 65588 -1 893
 Width: 354
-VWidth: 744
-Flags: W
-HStem: -6 19<-24 31.6172 211.944 258> 483 19<132 174.997 356.231 414>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-24 -24 -24 258 -30 -24> 483 19<126 420 414 414>
 LayerCount: 2
 Fore
 SplineSet
@@ -33218,9 +33218,9 @@ EndChar
 StartChar: j.sc
 Encoding: 65589 -1 894
 Width: 454
-VWidth: 732
-Flags: W
-HStem: -90 25<64.5259 131.239> 471 19<236 290.734 470.34 521>
+GlyphClass: 2
+Flags: MW
+HStem: -90 25<82.5 111.5 81.5 156> 471 19<230 527 521 521>
 LayerCount: 2
 Fore
 SplineSet
@@ -33246,9 +33246,9 @@ EndChar
 StartChar: k.sc
 Encoding: 65590 -1 895
 Width: 651
-VWidth: 744
-Flags: W
-HStem: -6 19<-41 13.9097 193.855 230 294 358.086 540.102 564> 483 19<115 156.673 336.596 388 461 480 639.371 693>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-41 -41 -41 230 -47 -41> 483 19<109 394 388 388 693 693>
 LayerCount: 2
 Fore
 SplineSet
@@ -33289,9 +33289,9 @@ EndChar
 StartChar: l.sc
 Encoding: 65591 -1 896
 Width: 607
-VWidth: 744
-Flags: W
-HStem: -5 23<-2 62.8135 221.256 366.41> 483 19<154 196.658 371.609 435>
+GlyphClass: 2
+Flags: MW
+HStem: -5 23<249 310 249 468> 483 19<148 441>
 LayerCount: 2
 Fore
 SplineSet
@@ -33317,9 +33317,9 @@ EndChar
 StartChar: m.sc
 Encoding: 65592 -1 897
 Width: 799
-VWidth: 744
-Flags: W
-HStem: -6 19<-42 12.5004 102.737 146 433 484.064 662.734 701> 483 19<116 157.25 806.341 857>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-42 -42 -42 146 -48 -42> 483 19<110 325 857 857>
 LayerCount: 2
 Fore
 SplineSet
@@ -33355,9 +33355,9 @@ EndChar
 StartChar: n.sc
 Encoding: 65593 -1 898
 Width: 658
-VWidth: 742
-Flags: W
-HStem: -8 19<4 52.4598 148.555 184> 480 19<160 178.272 546 583.245 673.234 716>
+GlyphClass: 2
+Flags: MW
+HStem: -8 19<4 4 4 184 -2 4> 480 19<160 162 716 716>
 LayerCount: 2
 Fore
 SplineSet
@@ -33388,9 +33388,9 @@ EndChar
 StartChar: o.sc
 Encoding: 65594 -1 899
 Width: 649
-VWidth: 744
-Flags: W
-HStem: -20 24<204.076 314.506> 488 24<346.754 449.163>
+GlyphClass: 2
+Flags: MW
+HStem: -20 24<207.5 302.5 207.5 329> 488 24<356 449.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -33410,9 +33410,9 @@ EndChar
 StartChar: p.sc
 Encoding: 65595 -1 900
 Width: 497
-VWidth: 744
-Flags: W
-HStem: -6 19<-68 -22.428 163.577 201> 222 26<211 300.547> 475 27<281.828 373.059> 483 19<88 124.946>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-68 -68 -68 201 -74 -68> 222 26<202 211> 475 27<309 348 348 357> 483 19<82 348>
 LayerCount: 2
 Fore
 SplineSet
@@ -33442,9 +33442,9 @@ EndChar
 StartChar: q.sc
 Encoding: 65596 -1 901
 Width: 680
-VWidth: 749
-Flags: W
-HStem: -133 36<361 524.063> 493 25<372.643 479.986>
+GlyphClass: 2
+Flags: MW
+HStem: -133 36 493 25<383 477.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -33471,9 +33471,9 @@ EndChar
 StartChar: r.sc
 Encoding: 65597 -1 902
 Width: 600
-VWidth: 744
-Flags: W
-HStem: -6 19<-49 4.75578 187.623 225 496.405 515> 229 24<236 250> 476 26<305.538 403.827> 483 19<107 147.337>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-49 -49 -49 225 -55 -49 513.5 515> 229 24<236 236 236 250 227 236> 476 26<333 361 361 387.5> 483 19<101 361>
 LayerCount: 2
 Fore
 SplineSet
@@ -33508,10 +33508,10 @@ EndChar
 StartChar: s.sc
 Encoding: 65598 -1 903
 Width: 506
-VWidth: 744
-Flags: W
-HStem: -20 25<134.849 255.329> 489 23<287.222 392.146>
-VStem: -7 23<-20 -4.28619> 53 23<144.3 166> 457 24<350 372.373> 506 26<495.833 513>
+GlyphClass: 2
+Flags: MW
+HStem: -20 25<171 227> 489 23<311.5 358.5>
+VStem: -7 23<-20 -20> 53 23<166 166> 457 24<350 350> 506 26<513 513>
 LayerCount: 2
 Fore
 SplineSet
@@ -33548,10 +33548,10 @@ EndChar
 StartChar: t.sc
 Encoding: 65599 -1 904
 Width: 547
-VWidth: 744
-Flags: W
-HStem: -6 19<52 112.24 290.688 340> 478 24<199.508 279 413 485.337>
-VStem: 533 23<351 373.489>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<52 52 52 340 46 52> 478 24<279 279 413 413>
+VStem: 533 23<351 351>
 LayerCount: 2
 Fore
 SplineSet
@@ -33576,9 +33576,9 @@ EndChar
 StartChar: u.sc
 Encoding: 65600 -1 905
 Width: 596
-VWidth: 742
-Flags: W
-HStem: -22 37<199.562 331.389> 480 19<95 132.031 312.455 367 479 521.118 613.188 654>
+GlyphClass: 2
+Flags: MW
+HStem: -22 37<224 248> 480 19<89 373 367 367 654 654>
 LayerCount: 2
 Fore
 SplineSet
@@ -33609,9 +33609,9 @@ EndChar
 StartChar: v.sc
 Encoding: 65601 -1 906
 Width: 598
-VWidth: 742
-Flags: W
-HStem: 480 19<97 126.135 304.326 369 487 538.239 615.904 656>
+GlyphClass: 2
+Flags: MW
+HStem: 480 19<91 375 369 369 656 656>
 LayerCount: 2
 Fore
 SplineSet
@@ -33640,9 +33640,9 @@ EndChar
 StartChar: w.sc
 Encoding: 65602 -1 907
 Width: 852
-VWidth: 742
-Flags: W
-HStem: -19 21G<192.496 231.749 510.268 547.54> 481 19<124 148.972 315.26 361 427 465.332 669 679 767 804.935 879.855 912>
+GlyphClass: 2
+Flags: MW
+HStem: -19 21G<194 217 194 194 512 534 512 512> 481 19<118 367 361 361 679 679 912 912>
 LayerCount: 2
 Fore
 SplineSet
@@ -33683,9 +33683,9 @@ EndChar
 StartChar: x.sc
 Encoding: 65603 -1 908
 Width: 597
-VWidth: 744
-Flags: W
-HStem: -6 19<-60 -13.6598 99.7327 141 224 250 475.012 499> 483 19<97 122.177 348 377 445 454 592.443 645>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-60 -60 -60 141 -66 -60> 483 19<91 383 377 377 645 645>
 LayerCount: 2
 Fore
 SplineSet
@@ -33731,9 +33731,9 @@ EndChar
 StartChar: y.sc
 Encoding: 65604 -1 909
 Width: 597
-VWidth: 744
-Flags: W
-HStem: -6 19<80 133.13 320.068 360> 483 19<95 119.552 342 367 478 524.75 618.036 655>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<80 80 80 360 74 80> 483 19<89 373 367 367 655 655>
 LayerCount: 2
 Fore
 SplineSet
@@ -33768,9 +33768,9 @@ EndChar
 StartChar: z.sc
 Encoding: 65605 -1 910
 Width: 608
-VWidth: 744
-Flags: W
-HStem: -6 27<172 372.397> 475 27<297.75 468>
+GlyphClass: 2
+Flags: MW
+HStem: -6 27<172 240 240 279> 475 27<468 468>
 LayerCount: 2
 Fore
 SplineSet
@@ -33796,9 +33796,9 @@ EndChar
 StartChar: agrave.sc
 Encoding: 65606 -1 911
 Width: 625
-VWidth: 750
-Flags: W
-HStem: 0 19<-70 -37.4683 48.75 92 225 252 462.847 486> 148 29<130 291>
+GlyphClass: 2
+Flags: MW
+HStem: 0 19<-70 -70 -70 92 -76 -70 475 486> 148 29<130 291 130 294 109 291>
 LayerCount: 2
 Fore
 SplineSet
@@ -33838,9 +33838,9 @@ EndChar
 StartChar: aacute.sc
 Encoding: 65607 -1 912
 Width: 625
-VWidth: 750
-Flags: W
-HStem: 0 19<-70 -37.4683 48.75 92 225 252 462.847 486> 148 29<130 291>
+GlyphClass: 2
+Flags: MW
+HStem: 0 19<-70 -70 -70 92 -76 -70 475 486> 148 29<130 291 130 294 109 291>
 LayerCount: 2
 Fore
 SplineSet
@@ -33880,9 +33880,9 @@ EndChar
 StartChar: acircumflex.sc
 Encoding: 65608 -1 913
 Width: 625
-VWidth: 749
-Flags: W
-HStem: -1 19<-70 -36.7725 50.25 92 225 255 463.73 486> 147 29<130 291>
+GlyphClass: 2
+Flags: MW
+HStem: -1 19<-70 -70 -70 92 -76 -70 475 486> 147 29<130 291 130 294 109 291>
 LayerCount: 2
 Fore
 SplineSet
@@ -33923,9 +33923,9 @@ EndChar
 StartChar: atilde.sc
 Encoding: 65609 -1 914
 Width: 625
-VWidth: 745
-Flags: W
-HStem: -4 18<-64 -32.9387 55.637 98 231 258 469.843 492> 143 29<133 294> 593 59<423.028 508.147> 630 58<300.252 389.238>
+GlyphClass: 2
+Flags: MW
+HStem: -4 18<-64 -64 -64 98 -70 -64 481 492> 143 29<133 294 133 297 112 294> 593 59<436 494> 630 58<317 375>
 LayerCount: 2
 Fore
 SplineSet
@@ -33971,9 +33971,9 @@ EndChar
 StartChar: adieresis.sc
 Encoding: 65610 -1 915
 Width: 625
-VWidth: 744
-Flags: W
-HStem: -6 19<-64 -31.4683 54.75 98 231 258 468.847 492> 142 30<136 297> 585 97<284.141 355.307 456.824 528.383>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-64 -64 -64 98 -70 -64 481 492> 142 30<136 297 136 297 112 297> 585 97<289.5 349.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34016,9 +34016,9 @@ EndChar
 StartChar: aring.sc
 Encoding: 65611 -1 916
 Width: 625
-VWidth: 755
-Flags: W
-HStem: 5 19<-73 -40.4683 44.9025 89 222 249 459.847 483> 153 29<124 285> 595 36<358.785 435.555> 719 36<375.962 453.524>
+GlyphClass: 2
+Flags: MW
+HStem: 5 19<-73 -73 -73 89 -79 -73 472 483> 153 29<124 285 124 288 103 285> 595 36<376.5 403.5 376.5 407> 719 36<407 433>
 LayerCount: 2
 Fore
 SplineSet
@@ -34061,10 +34061,10 @@ EndChar
 StartChar: ae.sc
 Encoding: 65612 -1 917
 Width: 908
-VWidth: 714
-Flags: W
-HStem: -36 26<511.283 661.012> -36 19<11 42.3066 171 176 292 345.191> 192 30<301 431> 213 24<578 635.019> 439 33<503 509 638.002 819.672> 455 17<392 439.875>
-VStem: 661 19<95 116.864> 742 19<330.856 348> 845 21<321 343.021>
+GlyphClass: 2
+Flags: MW
+HStem: -36 19<11 11 11 176 5 11> -36 26<537 597 537 753> 192 30<301 431 274 440> 213 24<569 578> 439 33<503 509 503 503> 455 17<386 914>
+VStem: 661 19<95 95> 742 19<348 348> 845 21<321 321>
 LayerCount: 2
 Fore
 SplineSet
@@ -34086,7 +34086,7 @@ SplineSet
  182 -17 l 1
  176 -36 l 1
  5 -36 l 1
- 11 -17 l 1x6380
+ 11 -17 l 1xa380
  43 -13 52 -9 133 79 c 2
  410 381 l 2
  434 407 445 419 448 427 c 0
@@ -34105,7 +34105,7 @@ SplineSet
  661 95 l 1
  676 188 658 208 569 213 c 1
  512 30 l 2
- 503 -2 513 -10 561 -10 c 0x9780
+ 503 -2 513 -10 561 -10 c 0x5780
  633 -10 686 4 729 36 c 0
  767 62 806 101 819 123 c 1
  839 123 l 1
@@ -34115,10 +34115,10 @@ EndChar
 StartChar: ccedilla.sc
 Encoding: 65613 -1 918
 Width: 659
-VWidth: 689
-Flags: W
-HStem: -224 30<202.32 304.466> -75 36<336 448.055> 433 24<443 557.476>
-VStem: 703 22<442.785 455>
+GlyphClass: 2
+Flags: MW
+HStem: -224 30<249.5 270.5 248.5 296.5> -75 36<336 379.5> 433 24<452 520 418 521>
+VStem: 703 22<455 455>
 LayerCount: 2
 Fore
 SplineSet
@@ -34131,7 +34131,7 @@ SplineSet
  379 -199 329 -224 264 -224 c 0
  235 -224 218 -221 190 -211 c 1
  212 -183 l 1
- 215 -185 l 2
+ 215 -185 l 1
  234 -192 242 -194 255 -194 c 0
  286 -194 309 -183 315 -163 c 0
  321 -146 307 -136 283 -136 c 0
@@ -34160,10 +34160,10 @@ EndChar
 StartChar: egrave.sc
 Encoding: 65614 -1 919
 Width: 607
-VWidth: 750
-Flags: W
-HStem: 0 24<-37 29.0628 186.005 337.669> 247 26<250 313.868> 482 25<319.407 478.021> 489 18<116 157.449>
-VStem: 338 22<131 153.705> 416 22<361.295 384> 526 21<357 380.333>
+GlyphClass: 2
+Flags: MW
+HStem: 0 24<214 273 214 439> 247 26<250 250 250 286> 482 25<347.5 436> 489 18<110 592>
+VStem: 338 22<131 131> 416 22<384 384> 526 21<357 357>
 LayerCount: 2
 Fore
 SplineSet
@@ -34204,10 +34204,10 @@ EndChar
 StartChar: eacute.sc
 Encoding: 65615 -1 920
 Width: 607
-VWidth: 750
-Flags: W
-HStem: 0 24<-37 29.0628 186.005 337.669> 247 26<250 313.868> 482 25<319.407 478.021> 489 18<116 157.449>
-VStem: 338 22<131 153.705> 416 22<361.295 384> 526 21<357 380.333>
+GlyphClass: 2
+Flags: MW
+HStem: 0 24<214 273 214 439> 247 26<250 250 250 286> 482 25<347.5 436> 489 18<110 592>
+VStem: 338 22<131 131> 416 22<384 384> 526 21<357 357>
 LayerCount: 2
 Fore
 SplineSet
@@ -34248,10 +34248,10 @@ EndChar
 StartChar: ecircumflex.sc
 Encoding: 65616 -1 921
 Width: 607
-VWidth: 749
-Flags: W
-HStem: -1 23<-37 26.6484 186.655 332.796> 246 26<250 313.868> 481 25<321.117 478.021> 488 18<119 159.434>
-VStem: 338 22<130 151.864> 419 22<361.136 383> 526 21<356 377.875>
+GlyphClass: 2
+Flags: MW
+HStem: -1 23<214 273 214 439> 246 26<250 250 250 286> 481 25<347.5 436> 488 18<113 595>
+VStem: 338 22<130 130> 419 22<383 383> 526 21<356 356>
 LayerCount: 2
 Fore
 SplineSet
@@ -34293,10 +34293,10 @@ EndChar
 StartChar: edieresis.sc
 Encoding: 65617 -1 922
 Width: 607
-VWidth: 744
-Flags: W
-HStem: -6 24<-31 35.0628 190.784 342.448> 241 26<256 319.868> 476 26<323.63 483.137> 483 19<122 164.596> 585 97<310.141 382.383 483.824 555.383>
-VStem: 344 22<125 147.705> 422 22<355.295 378> 529 21<351 373.021>
+GlyphClass: 2
+Flags: MW
+HStem: -6 24<217 276 217 445> 241 26<256 256 256 292> 476 26<353.5 442> 483 19<116 598> 585 97<315.5 375.5>
+VStem: 344 22<125 125> 422 22<378 378> 529 21<351 351>
 LayerCount: 2
 Fore
 SplineSet
@@ -34340,9 +34340,9 @@ EndChar
 StartChar: igrave.sc
 Encoding: 65618 -1 923
 Width: 354
-VWidth: 750
-Flags: W
-HStem: 0 19<-57 -2.33203 177.861 225> 489 18<96 137.76 321.866 378>
+GlyphClass: 2
+Flags: MW
+HStem: 0 19<-57 -57 -57 225 -63 -57> 489 18<90 384 378 378>
 LayerCount: 2
 Fore
 SplineSet
@@ -34372,9 +34372,9 @@ EndChar
 StartChar: iacute.sc
 Encoding: 65619 -1 924
 Width: 354
-VWidth: 750
-Flags: W
-HStem: 0 19<-57 -2.33203 177.861 225> 489 18<96 137.76 321.866 378>
+GlyphClass: 2
+Flags: MW
+HStem: 0 19<-57 -57 -57 225 -63 -57> 489 18<90 384 378 378>
 LayerCount: 2
 Fore
 SplineSet
@@ -34404,9 +34404,9 @@ EndChar
 StartChar: icircumflex.sc
 Encoding: 65620 -1 925
 Width: 354
-VWidth: 749
-Flags: W
-HStem: -1 19<-57 -1.38281 178.944 225> 488 18<99 140.76 324.866 381>
+GlyphClass: 2
+Flags: MW
+HStem: -1 19<-57 -57 -57 225 -63 -57> 488 18<93 387 381 381>
 LayerCount: 2
 Fore
 SplineSet
@@ -34437,9 +34437,9 @@ EndChar
 StartChar: idieresis.sc
 Encoding: 65621 -1 926
 Width: 354
-VWidth: 744
-Flags: W
-HStem: -6 19<-51 3.66797 183.861 231> 483 19<102 144.997 326.231 384> 585 97<165.141 237.383 337.824 410.383>
+GlyphClass: 2
+Flags: MW
+HStem: -6 19<-51 -51 -51 231 -57 -51> 483 19<96 390 384 384> 585 97<170.5 230.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34472,9 +34472,9 @@ EndChar
 StartChar: ntilde.sc
 Encoding: 65622 -1 927
 Width: 658
-VWidth: 743
-Flags: W
-HStem: -7 19<-26 22.4598 119.191 154> 482 18<133 149.122 519 554.134 647.049 689> 591 59<471.373 557.436> 628 58<348.264 434.368>
+GlyphClass: 2
+Flags: MW
+HStem: -7 19<-26 -26 -26 154 -32 -26> 482 18<133 135 689 689> 591 59<485 539> 628 58<365 424>
 LayerCount: 2
 Fore
 SplineSet
@@ -34518,9 +34518,9 @@ EndChar
 StartChar: ograve.sc
 Encoding: 65623 -1 928
 Width: 649
-VWidth: 748
-Flags: W
-HStem: -16 24<171.076 281.689> 492 24<318.989 421.281>
+GlyphClass: 2
+Flags: MW
+HStem: -16 24<174.5 269.5 174.5 296> 492 24<326 419.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34547,9 +34547,9 @@ EndChar
 StartChar: oacute.sc
 Encoding: 65624 -1 929
 Width: 649
-VWidth: 748
-Flags: W
-HStem: -16 24<171.076 281.689> 492 24<318.989 421.281>
+GlyphClass: 2
+Flags: MW
+HStem: -16 24<174.5 269.5 174.5 296> 492 24<326 419.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34576,9 +34576,9 @@ EndChar
 StartChar: ocircumflex.sc
 Encoding: 65625 -1 930
 Width: 649
-VWidth: 746
-Flags: W
-HStem: -17 24<168.909 279.32> 490 25<314.522 424.338>
+GlyphClass: 2
+Flags: MW
+HStem: -17 24<174.5 269.5 174.5 299> 490 25<326 419.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34606,9 +34606,9 @@ EndChar
 StartChar: otilde.sc
 Encoding: 65626 -1 931
 Width: 649
-VWidth: 743
-Flags: W
-HStem: -21 25<171.947 282.32> 487 24<319.594 422.163> 591 58<443.113 527.345> 628 58<317.264 401.998>
+GlyphClass: 2
+Flags: MW
+HStem: -21 25<177.5 272.5 177.5 302> 487 24<329 422.5> 591 58<455 508> 628 58<334 393>
 LayerCount: 2
 Fore
 SplineSet
@@ -34641,9 +34641,9 @@ EndChar
 StartChar: odieresis.sc
 Encoding: 65627 -1 932
 Width: 649
-VWidth: 742
-Flags: W
-HStem: -22 25<177.076 287.506> 486 24<324.989 427.12> 582 97<299.141 370.387 472.906 543.07>
+GlyphClass: 2
+Flags: MW
+HStem: -22 25<180.5 275.5 180.5 302> 486 24<332 425.5> 582 97<304.5 364.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34673,9 +34673,9 @@ EndChar
 StartChar: ugrave.sc
 Encoding: 65628 -1 933
 Width: 649
-VWidth: 748
-Flags: W
-HStem: -16 24<171.076 281.689> 492 24<318.989 421.281>
+GlyphClass: 2
+Flags: MW
+HStem: -16 24<174.5 269.5 174.5 296> 492 24<326 419.5>
 LayerCount: 2
 Fore
 SplineSet
@@ -34702,9 +34702,9 @@ EndChar
 StartChar: uacute.sc
 Encoding: 65629 -1 934
 Width: 596
-VWidth: 748
-Flags: W
-HStem: -16 36<165.403 295.417> 486 19<62 99.0312 278.506 334 446 487.299 581.105 621>
+GlyphClass: 2
+Flags: MW
+HStem: -16 36<188 212> 486 19<56 340 334 334 621 621>
 LayerCount: 2
 Fore
 SplineSet
@@ -34742,9 +34742,9 @@ EndChar
 StartChar: ucircumflex.sc
 Encoding: 65630 -1 935
 Width: 596
-VWidth: 748
-Flags: W
-HStem: -16 36<165.403 295.417> 486 19<62 99.0312 278.506 334 446 487.299 581.105 621>
+GlyphClass: 2
+Flags: MW
+HStem: -16 36<188 212> 486 19<56 340 334 334 621 621>
 LayerCount: 2
 Fore
 SplineSet
@@ -34782,9 +34782,9 @@ EndChar
 StartChar: udieresis.sc
 Encoding: 65631 -1 936
 Width: 596
-VWidth: 746
-Flags: W
-HStem: -17 36<165.472 295.859> 485 19<62 99.0312 278.506 334 446 488.118 581.741 621>
+GlyphClass: 2
+Flags: MW
+HStem: -17 36<188 215> 485 19<56 340 334 334 621 621>
 LayerCount: 2
 Fore
 SplineSet
